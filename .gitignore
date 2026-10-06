@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Environment / Secrets
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
+
+# Power BI temporary files
+*.pbit.tmp
+
+# Raw data
+data/raw/*
+!data/raw/.gitkeep
+
+# Excel temporary files
+~$*.xlsx
