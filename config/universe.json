@@ -1,0 +1,47 @@
+﻿{
+  "project": {
+    "name": "FinSight 360",
+    "sector": "Indian IT Services",
+    "currency": "INR"
+  },
+
+  "companies": {
+    "TCS": {
+      "name": "Tata Consultancy Services",
+      "ticker": "TCS.NS"
+    },
+    "INFY": {
+      "name": "Infosys",
+      "ticker": "INFY.NS"
+    },
+    "HCLTECH": {
+      "name": "HCL Technologies",
+      "ticker": "HCLTECH.NS"
+    },
+    "WIPRO": {
+      "name": "Wipro",
+      "ticker": "WIPRO.NS"
+    },
+    "TECHM": {
+      "name": "Tech Mahindra",
+      "ticker": "TECHM.NS"
+    }
+  },
+
+  "benchmarks": {
+    "NIFTY50": {
+      "name": "NIFTY 50",
+      "ticker": "^NSEI"
+    },
+    "NIFTYIT": {
+      "name": "NIFTY IT",
+      "ticker": "^CNXIT"
+    }
+  },
+
+  "market_data": {
+    "start_date": "2016-01-01",
+    "interval": "1d",
+    "auto_adjust": false
+  }
+}
