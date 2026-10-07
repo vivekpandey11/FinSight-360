@@ -1,0 +1,1192 @@
+
+
+============================== PDF PAGE 282 ==============================
+
+HCL Technologies Annual Report 2022-23
+280
+Consolidated Balance Sheet 
+(All amounts in crores of `, except share data and as stated otherwise)
+Note
+No.
+As at
+31 March 2023
+31 March 2022
+I
+ASSETS
+(1) Non-current assets
+(a) Property, plant and equipment
+3.1
+ 5,371 
+ 5,612 
+(b) Capital work in progress
+ 40 
+ 129 
+(c) Right-of-use assets
+3.28(a)
+ 2,337 
+ 2,305 
+(d) Goodwill
+3.2
+ 18,567 
+ 17,417 
+(e) Other intangible assets
+3.3
+ 8,344 
+ 9,743 
+(f)  Investments accounted for using the equity method
+3.4(a)
+ - 
+ 9 
+(g) Financial assets
+(i)    Investments
+3.4(b)
+ 110 
+ 103 
+(ii)   Trade receivables - unbilled
+3.5(a)
+ 681 
+ 1,072 
+(iii)  Loans
+3.6
+ - 
+ 200 
+(iv)  Others
+3.7
+ 1,279 
+ 1,220 
+(h) Deferred tax assets (net)
+3.25
+ 1,252 
+ 1,176 
+(i) Other non-current assets
+3.9
+ 1,853 
+ 2,006 
+Total non-current assets
+ 39,834 
+ 40,992 
+(2) Current assets
+(a) Inventories
+3.8
+ 228 
+ 161 
+(b) Financial assets
+(i)   Investments
+3.4(b)
+ 5,385 
+ 6,239 
+(ii)  Trade receivables
+         Billed
+3.5(b)
+ 19,572 
+ 15,476 
+         Unbilled
+3.5(b)
+ 5,934 
+ 5,195 
+(iii) Cash and cash equivalents
+3.10(a)
+ 9,065 
+ 10,510 
+(iv) Other bank balances
+3.10(b)
+ 5,659 
+ 2,126 
+(v)  Loans
+3.6
+ 2,603 
+ 3,008 
+(vi) Others
+3.7
+ 1,120 
+ 1,520 
+(c) Current tax assets (net)
+ 195 
+ 234 
+(d) Other current assets
+3.11
+ 3,816 
+ 3,572 
+Total current assets
+ 53,577 
+ 48,041 
+TOTAL ASSETS
+ 93,411 
+ 89,033 
+II
+EQUITY
+(a) Equity share capital
+3.12
+ 543 
+ 543 
+(b) Other equity
+ 64,862 
+ 61,371 
+ Equity attributable to shareholders of the Company
+ 65,405 
+ 61,914 
+ Non-controlling interest
+ (7)
+ 92 
+TOTAL EQUITY
+ 65,398 
+ 62,006 
+
+
+============================== PDF PAGE 283 ==============================
+
+Consolidated Financial Statements
+281
+Consolidated Balance Sheet
+(All amounts in crores of `, except share data and as stated otherwise)
+Note
+No.
+As at
+31 March 2023
+31 March 2022
+III LIABILITIES
+(1) Non-current liabilities
+(a) Financial liabilities
+(i)   Borrowings
+3.13
+ 2,111 
+ 3,923 
+(ii)  Lease liabilities
+3.28(a)
+ 1,664 
+ 1,659 
+(iii) Others
+3.15
+ 506 
+ 452 
+(b) Contract liabilities
+ 784 
+ 658 
+(c) Provisions
+3.16
+ 1,315 
+ 1,415 
+(d) Deferred tax liabilities (net)
+3.25
+ 161 
+ 112 
+(e) Other non-current liabilities
+3.17
+ 41 
+ 33 
+Total non-current liabilities
+ 6,582 
+ 8,252 
+(2) Current liabilities
+(a) Financial liabilities
+(i)  Borrowings
+3.13
+ 140 
+ 62 
+(ii)  Lease liabilities
+3.28(a)
+ 871 
+ 699 
+(iii)  Trade payables
+          Billed
+3.14
+ 2,526 
+ 2,297 
+          Unbilled and accruals
+3.14
+ 3,902 
+ 3,981 
+(iv) Others
+3.15
+ 5,210 
+ 4,796 
+(b) Contract liabilities
+ 3,917 
+ 3,380 
+(c) Other current liabilities
+3.18
+ 1,595 
+ 1,267 
+(d) Provisions
+3.16
+ 1,120 
+ 955 
+(e) Current tax liabilities (net)
+ 2,150 
+ 1,338 
+Total current liabilities
+ 21,431 
+ 18,775 
+TOTAL LIABILITIES
+ 28,013 
+ 27,027 
+TOTAL EQUITY AND LIABILITIES
+ 93,411 
+ 89,033 
+Summary of significant accounting policies
+1
+The accompanying notes are an integral part of the consolidated financial statements
+As per our report of even date attached
+For B S R & Co. LLP
+For and on behalf of the Board of Directors of HCL Technologies Limited
+Chartered Accountants
+Firm’s Registration  No. : 101248W/W-100022
+Rakesh Dewan
+Roshni Nadar Malhotra
+C. Vijayakumar
+S. Madhavan
+Partner
+Chairperson
+Chief Executive Officer
+Director
+Membership Number: 092212
+DIN - 02346621
+and Managing Director 
+DIN - 06451889
+DIN - 09244485
+Prateek Aggarwal
+Goutam Rungta
+Manish Anand
+Chief Financial Officer
+Corporate Vice President - Finance
+Company Secretary
+Gurugram, India
+Noida (UP), India
+20 April 2023
+20 April 2023
+
+
+============================== PDF PAGE 284 ==============================
+
+HCL Technologies Annual Report 2022-23
+282
+Consolidated Statement of Profit and Loss
+(All amounts in crores of `, except share data and as stated otherwise)
+Note 
+No.
+Year ended
+31 March 2023
+31 March 2022
+I
+Revenue
+Revenue from operations
+3.19
+ 101,456 
+ 85,651 
+Other income 
+3.20
+ 1,358 
+ 1,067 
+Total income
+ 102,814 
+ 86,718 
+II
+Expenses
+Purchase of stock-in-trade
+ 2,072 
+ 1,473 
+Changes in inventories of stock-in-trade
+3.21
+ (67)
+ (67)
+Employee benefits expense
+3.22
+ 55,280 
+ 46,130 
+Outsourcing costs
+ 14,950 
+ 12,515 
+Finance costs
+3.23
+ 353 
+ 319 
+Depreciation and amortization expense
+ 4,145 
+ 4,326 
+Other expenses
+3.24
+ 6,593 
+ 5,070 
+Total expenses
+ 83,326 
+ 69,766 
+III
+Profit before share of loss of associate and tax
+ 19,488 
+ 16,952 
+IV
+Share of loss of an associate
+-
+ (1)
+V
+Profit before tax
+ 19,488 
+ 16,951 
+VI
+Tax expense
+3.25
+Current tax
+ 4,665 
+ 3,442 
+Deferred tax credit
+ (22)
+ (14)
+Total tax expense
+ 4,643 
+ 3,428 
+VII
+Profit for the year
+ 14,845 
+ 13,523 
+VIII Other comprehensive income (loss)
+3.26
+(A)
+(i)  Items that will not be reclassified to statement of profit and loss
+ 215 
+ 50 
+(ii) Income tax relating to items that will not be reclassified to statement of profit and loss
+ (63)
+ (13)
+(B)
+(i)  Items that will be reclassified statement of profit and loss
+ 1,067 
+ 709 
+(ii) Income tax relating to items that will be reclassified to statement of profit and loss
+ 82 
+ 11 
+Total other comprehensive income, net of tax
+ 1,301 
+ 757 
+IX
+Total comprehensive income for the year
+ 16,146 
+ 14,280 
+
+
+============================== PDF PAGE 285 ==============================
+
+Consolidated Financial Statements
+283
+Consolidated Statement of Profit and Loss
+(All amounts in crores of `, except share data and as stated otherwise)
+Note 
+No.
+Year ended
+31 March 2023
+31 March 2022
+Profit for the year attributable to
+Shareholders of the Company
+ 14,851 
+ 13,499 
+Non-controlling interest
+ (6)
+ 24 
+ 14,845 
+ 13,523 
+Other comprehensive income for the year attributable to
+Shareholders of the Company
+ 1,301 
+ 752 
+Non-controlling interest
+ - 
+ 5 
+ 1,301 
+ 757 
+Total comprehensive income for the year attributable to
+Shareholders of the Company
+ 16,152 
+ 14,251 
+Non-controlling interest
+ (6)
+ 29 
+ 16,146 
+ 14,280 
+Earnings per equity share of ₹ 2 each
+3.27
+Basic (in ₹)
+ 54.85 
+ 49.77 
+Diluted (in ₹)
+ 54.79 
+ 49.77 
+Summary of significant accounting policies
+1
+The accompanying notes are an integral part of the consolidated financial statements
+As per our report of even date attached
+For B S R & Co. LLP
+For and on behalf of the Board of Directors of HCL Technologies Limited
+Chartered Accountants
+Firm’s Registration  No. : 101248W/W-100022
+Rakesh Dewan
+Roshni Nadar Malhotra
+C. Vijayakumar
+S. Madhavan
+Partner
+Chairperson
+Chief Executive Officer
+Director
+Membership Number: 092212
+DIN - 02346621
+and Managing Director 
+DIN - 06451889
+DIN - 09244485
+Prateek Aggarwal
+Goutam Rungta
+Manish Anand
+Chief Financial Officer
+Corporate Vice President - Finance
+Company Secretary
+Gurugram, India
+Noida (UP), India
+20 April 2023
+20 April 2023
+
+
+============================== PDF PAGE 286 ==============================
+
+HCL Technologies Annual Report 2022-23
+284
+Consolidated Statement of Changes in Equity 
+(All amounts in crores of r, except share data and as stated otherwise)
+The accompanying notes are an integral part of the consolidated financial statements
+As per our report of even date attached
+For B S R & Co. LLP
+For and on behalf of the Board of Directors of HCL Technologies Limited
+Chartered Accountants
+Firm’s Registration  No. : 101248W/W-100022
+Rakesh Dewan
+Roshni Nadar Malhotra
+C. Vijayakumar
+S. Madhavan
+Partner
+Chairperson
+Chief Executive Officer and Managing Director
+Director
+Membership Number: 092212
+DIN - 02346621
+DIN - 09244485
+DIN - 06451889
+Prateek Aggarwal
+Goutam Rungta
+Manish Anand
+Chief Financial Officer
+Corporate Vice President - Finance
+Company Secretary
+Gurugram, India
+Noida (UP), India
+20 April 2023
+20 April 2023
+Equity share capital
+Other equity
+Non
+Controlling
+Interests
+Total
+Equity
+Number
+of
+shares*
+Share
+capital
+Reserves and Surplus
+Other comprehensive income
+Total 
+other 
+equity
+Retained
+earnings
+Remeasurement
+of defined
+benefit plans
+Treasury
+share
+reserve
+Securities
+premium
+Capital 
+redemption 
+reserve
+Share
+based
+payment
+reserve
+Special 
+economic 
+zone re-
+investment 
+reserve
+Foreign
+currency
+translation
+reserve
+Cash
+flow
+hedging
+reserve
+Debt 
+instruments 
+through other
+comprehensive
+income
+Balance as at 1 April 2021
+2,713,665,096 
+ 543 
+ 54,715 
+ (6)
+ - 
+ 7 
+ 14 
+ - 
+ 1,695 
+ 2,740 
+ 183 
+ 22  59,370 
+ 169  60,082 
+Profit for the year
+ - 
+ - 
+ 13,499 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ -  13,499 
+ 24  13,523 
+Other comprehensive income (refer note 3.26)
+ - 
+ - 
+ - 
+ 37 
+ - 
+ - 
+ - 
+ - 
+ - 
+ 450 
+ 283 
+ (18)
+ 752 
+ 5 
+ 757 
+Total comprehensive income for the year
+ - 
+ - 
+ 13,499 
+ 37 
+ - 
+ - 
+ - 
+ - 
+ - 
+ 450 
+ 283 
+ (18) 14,251 
+ 29  14,280 
+Transactions with owners of the Company
+Contributions and distributions
+Interim dividend of r 42 per Share
+ - 
+ -  (11,391)
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - (11,391)
+ - (11,391)
+Transfer to special economic zone 
+re-investment reserve
+ - 
+ - 
+ (2,021)
+ - 
+ - 
+ - 
+ - 
+ - 
+ 2,021 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+Transfer from special economic zone 
+re-investment reserve
+ - 
+ - 
+ 922 
+ - 
+ - 
+ - 
+ - 
+ - 
+ (922)
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+Acquisition of treasury shares
+ - 
+ - 
+ - 
+ - 
+ (804)
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ (804)
+ - 
+ (804)
+Share based payments to employees
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ 82 
+ - 
+ - 
+ - 
+ - 
+ 82 
+ - 
+ 82 
+Changes in ownership interests
+Purchase of non-controlling interest 
+(refer note 2(b)(i))
+ - 
+ - 
+ (137)
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ (137)
+ (105)
+ (242)
+Dividend to non-controlling interest
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ (2)
+ (2)
+Change in non-controlling interest 
+(refer note 2(b)(ii))
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ 1 
+ 1 
+Balance as at 31 March 2022
+2,713,665,096 
+ 543 
+ 55,587 
+ 31 
+ (804)
+ 7 
+ 14 
+ 82 
+ 2,794 
+ 3,190 
+ 466 
+ 4  61,371 
+ 92  62,006 
+Balance as at 1 April 2022
+2,713,665,096 
+ 543 
+ 55,587 
+ 31 
+ (804)
+ 7 
+ 14 
+ 82 
+ 2,794 
+ 3,190 
+ 466 
+ 4  61,371 
+ 92  62,006 
+Profit for the year
+ - 
+ - 
+ 14,851 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ -  14,851 
+ (6)
+ 14,845 
+Other comprehensive income (refer note 3.26)
+ - 
+ - 
+ - 
+ 152 
+ - 
+ - 
+ - 
+ - 
+ - 
+ 1,541 
+ (387)
+ (5)
+ 1,301 
+ - 
+ 1,301 
+Total comprehensive income for the year
+ - 
+ - 
+ 14,851 
+ 152 
+ - 
+ - 
+ - 
+ - 
+ - 
+ 1,541 
+ (387)
+ (5) 16,152 
+ (6)
+ 16,146 
+Transactions with owners of the Company
+Contributions and distributions
+Interim dividend of r 48 per Share
+ - 
+ -  (12,995)
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - (12,995)
+ - (12,995)
+Transfer to special economic zone 
+re-investment reserve
+ - 
+ - 
+ (1,914)
+ - 
+ - 
+ - 
+ - 
+ - 
+ 1,914 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+Transfer from special economic zone 
+re-investment reserve
+ - 
+ - 
+ 579 
+ - 
+ - 
+ - 
+ - 
+ - 
+ (579)
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+Share based payments to employees
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ 308 
+ - 
+ - 
+ - 
+ - 
+ 308 
+ - 
+ 308 
+Issue of treasury shares to employees
+ - 
+ - 
+ (1)
+ - 
+ 3 
+ - 
+ - 
+ (2)
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+Excess tax benefit from share based payments
+ - 
+ - 
+ 5 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ 5 
+ - 
+ 5 
+Changes in ownership interests
+Change in non-controlling interest 
+(refer note 3.29)
+ - 
+ - 
+ 21 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ 21 
+ (93)
+ (72)
+Balance as at 31 March 2023
+2,713,665,096 
+ 543 
+ 56,133 
+ 183 
+ (801)
+ 7 
+ 14 
+ 388 
+ 4,129 
+ 4,731 
+ 79 
+ (1) 64,862 
+ (7)
+ 65,398 
+* Includes treasury shares held by the controlled trust (refer note 3.12)
+Refer note 1 for summary of significant accounting policies
+
+
+============================== PDF PAGE 287 ==============================
+
+Consolidated Financial Statements
+285
+Consolidated Statement of Cash Flows
+(All amounts in crores of `, except share data and as stated otherwise)
+Year ended
+31 March 2023
+31 March 2022
+A
+Cash flows from operating activities
+Profit before tax 
+ 19,488 
+ 16,951 
+Adjustment for:
+Depreciation and amortization expense
+ 4,145 
+ 4,326 
+Interest income
+ (769)
+ (583)
+Provision for doubtful debts / bad debts written off (net)
+ 25 
+ 21 
+Income on investments carried at fair value through profit and loss
+ (106)
+ (104)
+Profit on sale of debt securities
+ - 
+ (10)
+Interest expense
+ 238 
+ 225 
+Profit on sale of property, plant and equipment (net)
+ (162)
+ (15)
+Share based payments to employees
+ 308 
+ 81 
+Share of loss of an associate
+ - 
+ 1 
+Gain on buyback of senior notes
+ (170)
+ - 
+Other non-cash charges (net)
+ 15 
+ (1)
+ 23,012 
+ 20,892 
+Net change in
+Trade receivables
+ (3,240)
+ (2,809)
+Inventories
+ (37)
+ 207 
+Other financial assets and other assets
+ 917 
+ 219 
+Trade payables
+ (175)
+ 718 
+Other financial liabilities, contract liabilities, provisions and other liabilities
+ 1,230 
+ 1,116 
+Cash generated from operations
+ 21,707 
+ 20,343 
+Income taxes paid (net of refunds)
+ (3,698)
+ (3,443)
+Net cash flow from operating activities (A)
+ 18,009 
+ 16,900 
+B
+Cash flows from investing activities
+Purchase of property, plant and equipment and intangibles
+ (1,661)
+ (1,645)
+Proceeds from sale of property, plant and equipment
+ 217 
+ 90 
+Payments for business acquisitions, net of cash acquired
+ (706)
+ - 
+Net cash acquired on business acquisition (refer note 2(b)(ii))
+ - 
+ 40 
+Investments in bank deposits
+ (8,346)
+ (2,625)
+Proceeds from bank deposits on maturity
+ 4,484 
+ 2,866 
+Deposits placed with body corporates
+ (2,602)
+ (5,478)
+Proceeds from maturity of deposits placed with body corporates
+ 3,208 
+ 7,111 
+Purchase of investments in securities
+ (34,620)
+ (32,574)
+Proceeds from sale/maturity of investments in securities
+ 35,626 
+ 33,215 
+Investment in limited liability partnership
+ (3)
+ (2)
+Investment in equity instruments
+ - 
+ (1)
+Distribution from limited liability partnership
+ 1 
+ - 
+Investment in associate
+ - 
+ (9)
+Proceeds from return of investment in associate
+ 9 
+ - 
+Interest received
+ 636 
+ 590 
+Income taxes paid
+ (174)
+ (101)
+Net cash flow from (used) in investing activities (B)
+ (3,931)
+ 1,477 
+C
+Cash flows from financing activities
+Proceeds from long term borrowings
+ 36 
+ 25 
+Repayment of long term borrowings
+ (1,884)
+ (85)
+Proceeds from short term borrowings
+ 88 
+ 52 
+Repayment of short term borrowings
+ (88)
+ (52)
+Payments for deferred and contingent consideration on business acquisitions
+ (31)
+ (371)
+Purchase of non-controlling interest
+ - 
+ (746)
+Acquisition of treasury shares
+ - 
+ (804)
+Dividend paid 
+ (12,995)
+ (11,389)
+Dividend paid to non-controlling interests
+ - 
+ (2)
+Interest paid
+ (80)
+ (69)
+Payment of lease liabilities including interest
+ (927)
+ (1,067)
+Net cash flow used in financing activities (C)
+ (15,881)
+ (14,508)
+Net increase (decrease) in cash and cash equivalents (A+B+C)
+ (1,803)
+ 3,869 
+Effect of exchange differences on cash and cash equivalents held in foreign currency
+ 358 
+ 120 
+Cash and cash equivalents at the beginning of the year
+ 10,510 
+ 6,521 
+Cash and cash equivalents at the end of the year as per note 3.10(a)
+ 9,065 
+ 10,510 
+
+
+============================== PDF PAGE 288 ==============================
+
+HCL Technologies Annual Report 2022-23
+286
+Consolidated Statement of Cash Flows
+(All amounts in crores of `, except share data and as stated otherwise)
+Notes:
+1. 	 Reconciliation of liabilities arising from financing activities
+ Borrowings 
+ Deferred and 
+contingent 
+consideration
+Balance as at 1 April 2021
+ 3,907 
+ 363 
+Cash flows (net)
+ (60)
+ (371)
+Non cash changes
+Exchange differences (net) 
+ - 
+ 5 
+Translation exchange differences
+ 131 
+ - 
+Recognized in profit and loss
+ 7 
+ 3 
+Balance as at 31 March 2022
+ 3,985 
+ - 
+Balance as at 1 April 2022
+ 3,985 
+ - 
+Cash flows (net)
+ (1,848)
+ (31)
+Non cash changes
+Business combination
+ - 
+ 83 
+Translation exchange differences
+ 277 
+ 2 
+Recognized in profit and loss
+ (163)
+ 1 
+Balance as at 31 March 2023
+ 2,251 
+ 55 
+2. 	 The total amount of income taxes paid is r 3,872 crores (previous year, r 3,544 crores).
+3. 	 Cash and cash equivalents includes investor education and protection fund-unclaimed dividend of r 8 crores (previous year, r 8 crores).
+The accompanying notes are an integral part of the consolidated financial statements
+As per our report of even date attached
+For B S R & Co. LLP
+For and on behalf of the Board of Directors of HCL Technologies Limited
+Chartered Accountants
+Firm’s Registration  No. : 101248W/W-100022
+Rakesh Dewan
+Roshni Nadar Malhotra
+C. Vijayakumar
+S. Madhavan
+Partner
+Chairperson
+Chief Executive Officer
+Director
+Membership Number: 092212
+DIN - 02346621
+and Managing Director 
+DIN - 06451889
+DIN - 09244485
+Prateek Aggarwal
+Goutam Rungta
+Manish Anand
+Chief Financial Officer
+Corporate Vice President - Finance
+Company Secretary
+Gurugram, India
+Noida (UP), India
+20 April 2023
+20 April 2023

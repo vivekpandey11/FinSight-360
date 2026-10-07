@@ -1,0 +1,3 @@
+company_code,fiscal_year,revenue,other_income,total_income,employee_benefit_expense,equipment_software_cost,finance_cost,depreciation_amortization,other_expenses,total_expenses,profit_before_exceptional_items_tax,profit_before_tax,total_tax_expense,net_income,eps,ebit,ebitda,ebitda_margin,net_margin
+TCS,2026,267021.0,4402.0,271423.0,154994.0,4399.0,1227.0,5560.0,35230.0,201410.0,70013.0,65487.0,16033.0,49454.0,136.01,71240.0,76800.0,0.28761782781129575,0.1852064069867164
+TCS,2025,255324.0,3962.0,259286.0,145788.0,11648.0,5560.0,5242.0,30481.0,193955.0,65331.0,65331.0,16534.0,48797.0,134.19,70891.0,76133.0,0.2981819178768937,0.19111795209224358

@@ -1,0 +1,253 @@
+
+===== PDF PAGE 282 =====
+HCL Technologies Annual Report 2022-23
+280
+Consolidated Balance Sheet 
+(All amounts in crores of `, except share data and as stated otherwise)
+Note
+No.
+As at
+31 March 2023
+31 March 2022
+I
+ASSETS
+(1) Non-current assets
+(a) Property, plant and equipment
+3.1
+ 5,371 
+ 5,612 
+(b) Capital work in progress
+ 40 
+ 129 
+(c) Right-of-use assets
+3.28(a)
+ 2,337 
+ 2,305 
+(d) Goodwill
+3.2
+ 18,567 
+ 17,417 
+(e) Other intangible assets
+3.3
+ 8,344 
+ 9,743 
+(f)  Investments accounted for using the equity method
+3.4(a)
+ - 
+ 9 
+(g) Financial assets
+(i)    Investments
+3.4(b)
+ 110 
+ 103 
+(ii)   Trade receivables - unbilled
+3.5(a)
+ 681 
+ 1,072 
+(iii)  Loans
+3.6
+ - 
+ 200 
+(iv)  Others
+3.7
+ 1,279 
+ 1,220 
+(h) Deferred tax assets (net)
+3.25
+ 1,252 
+ 1,176 
+(i) Other non-current assets
+3.9
+ 1,853 
+ 2,006 
+Total non-current assets
+ 39,834 
+ 40,992 
+(2) Current assets
+(a) Inventories
+3.8
+ 228 
+ 161 
+(b) Financial assets
+(i)   Investments
+3.4(b)
+ 5,385 
+ 6,239 
+(ii)  Trade receivables
+         Billed
+3.5(b)
+ 19,572 
+ 15,476 
+         Unbilled
+3.5(b)
+ 5,934 
+ 5,195 
+(iii) Cash and cash equivalents
+3.10(a)
+ 9,065 
+ 10,510 
+(iv) Other bank balances
+3.10(b)
+ 5,659 
+ 2,126 
+(v)  Loans
+3.6
+ 2,603 
+ 3,008 
+(vi) Others
+3.7
+ 1,120 
+ 1,520 
+(c) Current tax assets (net)
+ 195 
+ 234 
+(d) Other current assets
+3.11
+ 3,816 
+ 3,572 
+Total current assets
+ 53,577 
+ 48,041 
+TOTAL ASSETS
+ 93,411 
+ 89,033 
+II
+EQUITY
+(a) Equity share capital
+3.12
+ 543 
+ 543 
+(b) Other equity
+ 64,862 
+ 61,371 
+ Equity attributable to shareholders of the Company
+ 65,405 
+ 61,914 
+ Non-controlling interest
+ (7)
+ 92 
+TOTAL EQUITY
+ 65,398 
+ 62,006 
+
+
+===== PDF PAGE 283 =====
+Consolidated Financial Statements
+281
+Consolidated Balance Sheet
+(All amounts in crores of `, except share data and as stated otherwise)
+Note
+No.
+As at
+31 March 2023
+31 March 2022
+III LIABILITIES
+(1) Non-current liabilities
+(a) Financial liabilities
+(i)   Borrowings
+3.13
+ 2,111 
+ 3,923 
+(ii)  Lease liabilities
+3.28(a)
+ 1,664 
+ 1,659 
+(iii) Others
+3.15
+ 506 
+ 452 
+(b) Contract liabilities
+ 784 
+ 658 
+(c) Provisions
+3.16
+ 1,315 
+ 1,415 
+(d) Deferred tax liabilities (net)
+3.25
+ 161 
+ 112 
+(e) Other non-current liabilities
+3.17
+ 41 
+ 33 
+Total non-current liabilities
+ 6,582 
+ 8,252 
+(2) Current liabilities
+(a) Financial liabilities
+(i)  Borrowings
+3.13
+ 140 
+ 62 
+(ii)  Lease liabilities
+3.28(a)
+ 871 
+ 699 
+(iii)  Trade payables
+          Billed
+3.14
+ 2,526 
+ 2,297 
+          Unbilled and accruals
+3.14
+ 3,902 
+ 3,981 
+(iv) Others
+3.15
+ 5,210 
+ 4,796 
+(b) Contract liabilities
+ 3,917 
+ 3,380 
+(c) Other current liabilities
+3.18
+ 1,595 
+ 1,267 
+(d) Provisions
+3.16
+ 1,120 
+ 955 
+(e) Current tax liabilities (net)
+ 2,150 
+ 1,338 
+Total current liabilities
+ 21,431 
+ 18,775 
+TOTAL LIABILITIES
+ 28,013 
+ 27,027 
+TOTAL EQUITY AND LIABILITIES
+ 93,411 
+ 89,033 
+Summary of significant accounting policies
+1
+The accompanying notes are an integral part of the consolidated financial statements
+As per our report of even date attached
+For B S R & Co. LLP
+For and on behalf of the Board of Directors of HCL Technologies Limited
+Chartered Accountants
+Firm’s Registration  No. : 101248W/W-100022
+Rakesh Dewan
+Roshni Nadar Malhotra
+C. Vijayakumar
+S. Madhavan
+Partner
+Chairperson
+Chief Executive Officer
+Director
+Membership Number: 092212
+DIN - 02346621
+and Managing Director 
+DIN - 06451889
+DIN - 09244485
+Prateek Aggarwal
+Goutam Rungta
+Manish Anand
+Chief Financial Officer
+Corporate Vice President - Finance
+Company Secretary
+Gurugram, India
+Noida (UP), India
+20 April 2023
+20 April 2023

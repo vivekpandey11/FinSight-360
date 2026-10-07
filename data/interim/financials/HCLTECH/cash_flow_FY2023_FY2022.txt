@@ -1,0 +1,263 @@
+
+===== PDF PAGE 287 =====
+Consolidated Financial Statements
+285
+Consolidated Statement of Cash Flows
+(All amounts in crores of `, except share data and as stated otherwise)
+Year ended
+31 March 2023
+31 March 2022
+A
+Cash flows from operating activities
+Profit before tax 
+ 19,488 
+ 16,951 
+Adjustment for:
+Depreciation and amortization expense
+ 4,145 
+ 4,326 
+Interest income
+ (769)
+ (583)
+Provision for doubtful debts / bad debts written off (net)
+ 25 
+ 21 
+Income on investments carried at fair value through profit and loss
+ (106)
+ (104)
+Profit on sale of debt securities
+ - 
+ (10)
+Interest expense
+ 238 
+ 225 
+Profit on sale of property, plant and equipment (net)
+ (162)
+ (15)
+Share based payments to employees
+ 308 
+ 81 
+Share of loss of an associate
+ - 
+ 1 
+Gain on buyback of senior notes
+ (170)
+ - 
+Other non-cash charges (net)
+ 15 
+ (1)
+ 23,012 
+ 20,892 
+Net change in
+Trade receivables
+ (3,240)
+ (2,809)
+Inventories
+ (37)
+ 207 
+Other financial assets and other assets
+ 917 
+ 219 
+Trade payables
+ (175)
+ 718 
+Other financial liabilities, contract liabilities, provisions and other liabilities
+ 1,230 
+ 1,116 
+Cash generated from operations
+ 21,707 
+ 20,343 
+Income taxes paid (net of refunds)
+ (3,698)
+ (3,443)
+Net cash flow from operating activities (A)
+ 18,009 
+ 16,900 
+B
+Cash flows from investing activities
+Purchase of property, plant and equipment and intangibles
+ (1,661)
+ (1,645)
+Proceeds from sale of property, plant and equipment
+ 217 
+ 90 
+Payments for business acquisitions, net of cash acquired
+ (706)
+ - 
+Net cash acquired on business acquisition (refer note 2(b)(ii))
+ - 
+ 40 
+Investments in bank deposits
+ (8,346)
+ (2,625)
+Proceeds from bank deposits on maturity
+ 4,484 
+ 2,866 
+Deposits placed with body corporates
+ (2,602)
+ (5,478)
+Proceeds from maturity of deposits placed with body corporates
+ 3,208 
+ 7,111 
+Purchase of investments in securities
+ (34,620)
+ (32,574)
+Proceeds from sale/maturity of investments in securities
+ 35,626 
+ 33,215 
+Investment in limited liability partnership
+ (3)
+ (2)
+Investment in equity instruments
+ - 
+ (1)
+Distribution from limited liability partnership
+ 1 
+ - 
+Investment in associate
+ - 
+ (9)
+Proceeds from return of investment in associate
+ 9 
+ - 
+Interest received
+ 636 
+ 590 
+Income taxes paid
+ (174)
+ (101)
+Net cash flow from (used) in investing activities (B)
+ (3,931)
+ 1,477 
+C
+Cash flows from financing activities
+Proceeds from long term borrowings
+ 36 
+ 25 
+Repayment of long term borrowings
+ (1,884)
+ (85)
+Proceeds from short term borrowings
+ 88 
+ 52 
+Repayment of short term borrowings
+ (88)
+ (52)
+Payments for deferred and contingent consideration on business acquisitions
+ (31)
+ (371)
+Purchase of non-controlling interest
+ - 
+ (746)
+Acquisition of treasury shares
+ - 
+ (804)
+Dividend paid 
+ (12,995)
+ (11,389)
+Dividend paid to non-controlling interests
+ - 
+ (2)
+Interest paid
+ (80)
+ (69)
+Payment of lease liabilities including interest
+ (927)
+ (1,067)
+Net cash flow used in financing activities (C)
+ (15,881)
+ (14,508)
+Net increase (decrease) in cash and cash equivalents (A+B+C)
+ (1,803)
+ 3,869 
+Effect of exchange differences on cash and cash equivalents held in foreign currency
+ 358 
+ 120 
+Cash and cash equivalents at the beginning of the year
+ 10,510 
+ 6,521 
+Cash and cash equivalents at the end of the year as per note 3.10(a)
+ 9,065 
+ 10,510 
+
+
+===== PDF PAGE 288 =====
+HCL Technologies Annual Report 2022-23
+286
+Consolidated Statement of Cash Flows
+(All amounts in crores of `, except share data and as stated otherwise)
+Notes:
+1. 	 Reconciliation of liabilities arising from financing activities
+ Borrowings 
+ Deferred and 
+contingent 
+consideration
+Balance as at 1 April 2021
+ 3,907 
+ 363 
+Cash flows (net)
+ (60)
+ (371)
+Non cash changes
+Exchange differences (net) 
+ - 
+ 5 
+Translation exchange differences
+ 131 
+ - 
+Recognized in profit and loss
+ 7 
+ 3 
+Balance as at 31 March 2022
+ 3,985 
+ - 
+Balance as at 1 April 2022
+ 3,985 
+ - 
+Cash flows (net)
+ (1,848)
+ (31)
+Non cash changes
+Business combination
+ - 
+ 83 
+Translation exchange differences
+ 277 
+ 2 
+Recognized in profit and loss
+ (163)
+ 1 
+Balance as at 31 March 2023
+ 2,251 
+ 55 
+2. 	 The total amount of income taxes paid is r 3,872 crores (previous year, r 3,544 crores).
+3. 	 Cash and cash equivalents includes investor education and protection fund-unclaimed dividend of r 8 crores (previous year, r 8 crores).
+The accompanying notes are an integral part of the consolidated financial statements
+As per our report of even date attached
+For B S R & Co. LLP
+For and on behalf of the Board of Directors of HCL Technologies Limited
+Chartered Accountants
+Firm’s Registration  No. : 101248W/W-100022
+Rakesh Dewan
+Roshni Nadar Malhotra
+C. Vijayakumar
+S. Madhavan
+Partner
+Chairperson
+Chief Executive Officer
+Director
+Membership Number: 092212
+DIN - 02346621
+and Managing Director 
+DIN - 06451889
+DIN - 09244485
+Prateek Aggarwal
+Goutam Rungta
+Manish Anand
+Chief Financial Officer
+Corporate Vice President - Finance
+Company Secretary
+Gurugram, India
+Noida (UP), India
+20 April 2023
+20 April 2023

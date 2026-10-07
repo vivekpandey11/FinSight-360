@@ -1,0 +1,2119 @@
+
+
+============================== PDF PAGE 270 ==============================
+
+Infosys Integrated Annual Report 2022-23
+298
+Meaning of Internal Financial Controls with reference to Consolidated Financial Statements
+A company's internal financial control with reference to Consolidated Financial Statements is a process designed to provide reasonable 
+assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance 
+with generally accepted accounting principles. A company's internal financial control with reference to Consolidated Financial 
+Statements includes those policies and procedures that (1) pertain to the maintenance of records that, in reasonable detail, accurately 
+and fairly reflect the transactions and dispositions of the assets of the company; (2) provide reasonable assurance that transactions are 
+recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and 
+that receipts and expenditures of the company are being made only in accordance with authorisations of management and directors 
+of the company; and (3) provide reasonable assurance regarding prevention or timely detection of unauthorised acquisition, use, or 
+disposition of the company's assets that could have a material effect on the financial statements.
+Inherent Limitations of Internal Financial Controls with reference to Consolidated Financial Statements 
+Because of the inherent limitations of internal financial controls with reference to Consolidated Financial Statements, including the 
+possibility of collusion or improper management override of controls, material misstatements due to error or fraud may occur and not 
+be detected. Also, projections of any evaluation of the internal financial controls with reference to Consolidated Financial Statements to 
+future periods are subject to the risk that the internal financial control with reference to Consolidated Financial Statements may become 
+inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.
+Opinion
+In our opinion and to the best of our information and according to the explanations given to us, the Company and its subsidiary 
+companies, which are companies incorporated in India, have, in all material respects, an adequate internal financial controls with 
+reference to Consolidated Financial Statements and such internal financial controls with reference to Consolidated Financial Statements 
+were operating effectively as at March 31, 2023, based on the criteria for internal financial control with reference to Consolidated 
+Financial Statements established by the respective companies considering the essential components of internal control stated in the 
+Guidance Note on Audit of Internal Financial Controls Over Financial Reporting issued by the ICAI.
+For DELOITTE HASKINS & SELLS LLP
+Chartered Accountants
+(Firm’s Registration No. 117366W/W-100018)
+Place: Bangalore
+Date: April 13, 2023
+Sanjiv V. Pilgaonkar
+Partner
+(Membership No.039826)
+UDIN: 23039826BGXRYQ2725
+ 
+Consolidated Financial Statements
+
+
+============================== PDF PAGE 271 ==============================
+
+Infosys Integrated Annual Report 2022-23
+299
+Consolidated Balance Sheet
+(In ₹ crore)
+Particulars
+Note
+As at March 31, 
+2023
+2022
+Assets
+ 
+ 
+ 
+Non-current assets
+ 
+ 
+ 
+Property, plant and equipment
+2.2
+ 13,346
+ 13,075
+Right-of-use assets
+2.21
+ 6,882
+ 4,823
+Capital work-in-progress
+2.3
+ 288
+ 416
+Goodwill
+2.4.1 and 2.1
+ 7,248
+ 6,195
+Other intangible assets
+2.4.2
+ 1,749
+ 1,707
+Financial assets
+ 
+ 
+ 
+Investments
+2.5
+ 12,569
+ 13,651
+Loans
+2.6
+ 39
+ 34
+Other financial assets
+2.7
+ 2,798
+ 1,460
+Deferred tax assets (net)
+2.17
+ 1,245
+ 1,212
+Income tax assets (net)
+2.17
+ 6,453
+ 6,098
+Other non-current assets
+2.10
+ 2,318
+ 2,029
+Total non-current assets
+ 
+54,935
+50,700
+Current assets
+ 
+ 
+ 
+Financial assets
+ 
+ 
+ 
+Investments
+2.5
+ 6,909
+ 6,673
+Trade receivables
+2.8
+ 25,424
+ 22,698
+Cash and cash equivalents
+2.9
+ 12,173
+ 17,472
+Loans
+2.6
+ 289
+ 248
+Other financial assets
+2.7
+ 11,604
+ 8,727
+Income tax assets (net)
+2.17
+ 6
+ 54
+Other current assets
+2.10
+ 14,476
+ 11,313
+Total current assets
+ 
+70,881
+67,185
+Total assets
+ 
+1,25,816
+1,17,885
+
+
+============================== PDF PAGE 272 ==============================
+
+Infosys Integrated Annual Report 2022-23
+300
+Particulars
+Note
+As at March 31, 
+2023
+2022
+Equity and liabilities
+ 
+ 
+ 
+Equity
+ 
+ 
+ 
+Equity share capital
+2.12
+ 2,069
+ 2,098
+Other equity
+ 
+ 73,338
+73,252
+Total equity attributable to equity holders of the Company
+ 
+75,407
+75,350
+Non-controlling interests
+ 
+ 388
+ 386
+Total equity
+ 
+75,795
+75,736
+Liabilities
+ 
+ 
+ 
+Non-current liabilities
+ 
+ 
+ 
+Financial liabilities
+ 
+ 
+ 
+Lease liabilities
+2.21
+ 7,057
+ 4,602
+Other financial liabilities
+2.13
+ 2,058
+ 2,337
+Deferred tax liabilities (net)
+2.17
+ 1,220
+ 1,156
+Other non-current liabilities
+2.15
+ 500
+ 451
+Total non-current liabilities
+ 
+10,835
+8,546
+Current liabilities
+ 
+ 
+ 
+Financial liabilities
+ 
+ 
+ 
+Lease liabilities
+2.21
+ 1,242
+ 872
+Trade payables
+2.14
+ 3,865
+ 4,134
+Other financial liabilities
+2.13
+ 18,558
+ 15,837
+Other current liabilities
+2.15
+ 10,830
+ 9,178
+Provisions
+2.16
+ 1,307
+ 975
+Income tax liabilities (net)
+2.17
+ 3,384
+ 2,607
+Total current liabilities
+ 
+39,186
+33,603
+Total equity and liabilities
+ 
+1,25,816
+1,17,885
+The accompanying notes form an integral part of the Consolidated financial statements.
+As per our report of even date attached
+for Deloitte Haskins & Sells LLP
+Chartered Accountants
+Firm’s Registration No :
+117366W/ W-100018
+for and on behalf of the Board of Directors of Infosys Limited
+Sanjiv V. Pilgaonkar
+Partner
+Membership No. 039826
+D. Sundaram
+Lead Independent Director
+Salil Parekh
+Chief Executive Officer
+and Managing Director
+Bobby Parikh
+Director
+Bengaluru
+April 13, 2023
+Nilanjan Roy
+Chief Financial Officer
+Jayesh Sanghrajka
+Executive Vice President and
+Deputy Chief Financial Officer
+A.G.S. Manikantha
+Company Secretary
+ 
+Consolidated Balance Sheet (contd.)
+Consolidated Financial Statements
+
+
+============================== PDF PAGE 273 ==============================
+
+Infosys Integrated Annual Report 2022-23
+301
+(In ₹ crore, except equity share and per equity share data)
+Particulars
+ Note
+Year ended March 31,
+2023
+2022
+Revenue from operations
+2.18
+ 1,46,767
+ 1,21,641
+Other income, net
+2.19
+ 2,701
+ 2,295
+Total income
+ 
+ 1,49,468
+ 1,23,936
+Expenses
+ 
+ 
+ 
+Employee benefit expenses
+2.22
+ 78,359
+ 63,986
+Cost of technical sub-contractors
+ 
+ 14,062
+ 12,606
+Travel expenses
+ 
+ 1,525
+ 827
+Cost of software packages and others
+2.20
+ 10,902
+ 6,811
+Communication expenses
+ 
+ 713
+ 611
+Consultancy and professional charges
+ 
+ 1,684
+ 1,885
+Depreciation and amortization expenses
+2.2, 2.4.2 and 2.21
+ 4,225
+ 3,476
+Finance cost
+ 
+ 284
+ 200
+Other expenses
+2.20
+ 4,392
+ 3,424
+Total expenses
+ 
+ 1,16,146
+ 93,826
+Profit before tax
+ 
+ 33,322
+ 30,110
+Tax expense:
+ 
+ 
+ 
+Current tax
+2.17
+ 9,287
+ 7,811
+Deferred tax
+2.17
+ (73)
+ 153
+Profit for the period
+ 
+ 24,108
+ 22,146
+Consolidated Statement of Profit and Loss
+
+
+============================== PDF PAGE 274 ==============================
+
+Infosys Integrated Annual Report 2022-23
+302
+Particulars
+ Note
+Year ended March 31,
+2023
+2022
+Other comprehensive income
+ 
+ 
+ 
+Items that will not be reclassified subsequently to profit or loss
+ 
+ 
+ 
+Remeasurement of the net defined benefit liability / asset, net
+2.22
+ 8
+ (85)
+Equity instruments through other comprehensive income, net
+2.5
+ (7)
+ 96
+ 
+ 
+ 1
+ 11
+Items that will be reclassified subsequently to profit or loss
+ 
+ 
+ 
+Fair value changes on derivatives designated as cash flow hedge, net
+2.11
+ (7)
+ (8)
+Exchange differences on translation of foreign operations
+ 
+ 776
+ 228
+Fair value changes on investments, net
+2.5
+ (256)
+ (49)
+ 
+ 
+ 513
+ 171
+Total other comprehensive income / (loss), net of tax
+ 
+ 514
+ 182
+Total comprehensive income for the period
+ 
+ 24,622
+ 22,328
+Profit attributable to:
+ 
+ 
+ 
+Owners of the Company
+ 
+ 24,095
+ 22,110
+Non-controlling interests
+ 
+ 13
+ 36
+ 
+ 
+ 24,108
+ 22,146
+Total comprehensive income attributable to:
+ 
+ 
+ 
+Owners of the Company
+ 
+ 24,598
+ 22,293
+Non-controlling interests
+ 
+ 24
+ 35
+ 
+ 
+ 24,622
+ 22,328
+Earnings per equity share
+ 
+ 
+Equity shares of par value ₹5 each
+ 
+ 
+ 
+Basic (₹)
+ 
+ 57.63
+ 52.52
+Diluted (₹)
+ 
+ 57.54
+ 52.41
+Weighted average equity shares used in computing earnings per equity share
+ 
+ 
+ 
+Basic (in shares)
+2.23
+418,08,97,857
+420,95,46,724
+Diluted (in shares)
+2.23
+418,77,31,070
+ 421,85,25,134
+The accompanying notes form an integral part of the Consolidated financial statements.
+As per our report of even date attached
+for Deloitte Haskins & Sells LLP
+Chartered Accountants
+Firm’s Registration No.:
+117366W/W-100018
+for and on behalf of the Board of Directors of Infosys Limited
+Sanjiv V. Pilgaonkar
+Partner
+Membership No. 039826
+D. Sundaram
+Lead Independent Director
+Salil Parekh
+Chief Executive Officer
+and Managing Director
+Bobby Parikh
+Director
+Bengaluru
+April 13, 2023
+Nilanjan Roy
+Chief Financial Officer
+Jayesh Sanghrajka
+Executive Vice President and
+Deputy Chief Financial Officer
+A.G.S. Manikantha 
+Company Secretary
+ 
+Consolidated Statement of Profit and Loss (contd.)
+Consolidated Financial Statements
+
+
+============================== PDF PAGE 275 ==============================
+
+Infosys Integrated Annual Report 2022-23
+303
+(In ₹ crore)
+Particulars
+Equity 
+share 
+capital 
+(1)
+Other equity
+Total equity 
+attributable 
+to equity 
+holders 
+of the 
+Company
+Non-
+controlling 
+interest
+Total 
+equity
+Reserves and surplus
+Other comprehensive income
+Capital 
+reserve
+Capital 
+redemption 
+reserve
+Securities 
+premium
+Retained 
+earnings
+General 
+reserve
+Share
+options 
+outstanding 
+account
+Special 
+Economic
+Zone Re-
+investment 
+reserve (2)
+Other 
+reserves (3)
+Equity 
+instruments 
+through other 
+comprehensive 
+income
+Exchange 
+differences 
+on 
+translating 
+the 
+financial 
+statements 
+of a 
+foreign 
+operation
+Effective 
+portion 
+of cash 
+flow 
+hedges
+Other items 
+of other 
+comprehensive 
+income / (loss)
+Balance as at 
+April 1, 2021
+2,124 
+ 54 
+ 111 
+ 600 62,643  2,715 
+ 372 
+ 6,385 
+6 
+158
+ 1,331
+ 10
+ (158)
+ 76,351
+ 431 76,782
+Changes in equity 
+for the year ended 
+March 31, 2022
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Profit for the period
+ –
+ –
+ –
+ –
+ 22,110 
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ 22,110 
+ 36 
+22,146 
+Remeasurement 
+of the net defined 
+benefit liability / 
+asset, net * (Refer to 
+Note 2.22)
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ (85)
+ (85)
+ –
+ (85)
+Equity instruments 
+through other 
+comprehensive 
+income, net * (Refer 
+to Notes 2.5 and 
+2.17)
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ 96 
+ –
+ –
+ –
+ 96 
+ –
+ 96 
+Fair value changes 
+on derivatives 
+designated as cash 
+flow hedge, net * 
+(Refer to Note 2.11)
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ (8)
+ –
+ (8)
+ –
+ (8)
+Exchange 
+differences on 
+translation of 
+foreign operations
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+229 
+ –
+ –
+229 
+ (1)
+ 228 
+Fair value changes 
+on investments, net 
+* (Refer to Notes 2.5 
+and 2.17)
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+(49)
+(49)
+ –
+ (49)
+Total 
+Comprehensive 
+income for the 
+period
+ –
+ –
+ –
+ –
+ 22,110 
+ –
+ –
+ –
+–
+ 96
+ 229
+ (8)
+ (134)
+ 22,293
+ 35 22,328
+Shares issued 
+on exercise of 
+employee stock 
+options (Refer to 
+Note 2.12)
+ 2 
+ –
+ –
+ 19 
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ 21 
+ –
+ 21 
+Consolidated Statement of Changes in Equity
+
+
+============================== PDF PAGE 276 ==============================
+
+Infosys Integrated Annual Report 2022-23
+304
+Particulars
+Equity 
+share 
+capital 
+(1)
+Other equity
+Total equity 
+attributable 
+to equity 
+holders 
+of the 
+Company
+Non-
+controlling 
+interest
+Total 
+equity
+Reserves and surplus
+Other comprehensive income
+Capital 
+reserve
+Capital 
+redemption 
+reserve
+Securities 
+premium
+Retained 
+earnings
+General 
+reserve
+Share
+options 
+outstanding 
+account
+Special 
+Economic
+Zone Re-
+investment 
+reserve (2)
+Other 
+reserves (3)
+Equity 
+instruments 
+through other 
+comprehensive 
+income
+Exchange 
+differences 
+on 
+translating 
+the 
+financial 
+statements 
+of a 
+foreign 
+operation
+Effective 
+portion 
+of cash 
+flow 
+hedges
+Other items 
+of other 
+comprehensive 
+income / (loss)
+Employee stock 
+compensation 
+expense (Refer to 
+Note 2.12)
+ –
+ –
+ –
+ –
+ –
+ –
+ 393 
+ –
+ –
+ –
+ –
+ –
+ –
+ 393 
+ –
+ 393 
+Transfer on account 
+of options not 
+exercised
+ –
+ –
+ –
+ –
+ –
+ 1 
+ (1)
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+Buyback of equity 
+shares (Refer to Note 
+2.12) **
+ (28)
+ –
+ –
+ (640)
+ (8,822)
+ 
+(1,603)
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ (11,093)
+ – (11,093)
+Transaction costs 
+relating to buyback *
+ –
+ –
+ –
+ –
+ –
+ (24)
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ (24)
+ –
+ (24)
+Amount transferred 
+to capital 
+redemption reserve 
+upon buyback
+ –
+ –
+ 28 
+ –
+ –
+ (28)
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+Transfer to legal 
+reserve
+ –
+ –
+ –
+ –
+ (10)
+ –
+ –
+ –
+ 10 
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+Transferred on 
+account of exercise 
+of stock options 
+(Refer to Note 2.12)
+ –
+ –
+ –
+ 218 
+ –
+ –
+ (218)
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+Income tax benefit 
+arising on exercise 
+of stock options 
+(Refer to Note 2.12)
+ –
+ –
+ –
+ 3 
+ –
+ –
+ 60 
+ –
+ –
+ –
+ –
+ –
+ –
+ 63 
+ –
+ 63 
+Changes in the 
+controlling stake of 
+the subsidiary
+ –
+ –
+ –
+ –
+ 1 
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ 1 
+ (1)
+ –
+Dividends (1)
+ –
+ –
+ –
+ – (12,655)
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ (12,655)
+ – (12,655)
+Dividends paid to 
+non-controlling 
+interest of 
+subsidiary
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ (79)
+ (79)
+Transferred to 
+Special Economic 
+Zone Re-
+investment Reserve
+ –
+ –
+ –
+ –
+ (3,054)
+ –
+ –
+ 3,054 
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+Transferred from 
+Special Economic 
+Zone Re-
+investment Reserve 
+on utilization
+ –
+ –
+ –
+ –
+ 1,100 
+ –
+ –
+ (1,100)
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+Balance as at 
+March 31, 2022
+2,098 
+ 54 
+ 139 
+ 200  61,313  1,061 
+ 606 
+ 8,339 
+16 
+ 254
+ 1,560
+ 2
+ (292)
+ 75,350
+ 386
+ 
+75,736
+Consolidated Financial Statements
+
+
+============================== PDF PAGE 277 ==============================
+
+Infosys Integrated Annual Report 2022-23
+305
+Particulars
+Equity 
+share 
+capital 
+(1)
+Other equity
+Total equity 
+attributable 
+to equity 
+holders 
+of the 
+Company
+Non-
+controlling 
+interest
+Total 
+equity
+Reserves and surplus
+Other comprehensive income
+Capital 
+reserve
+Capital 
+redemption 
+reserve
+Securities 
+premium
+Retained 
+earnings
+General 
+reserve
+Share
+options 
+outstanding 
+account
+Special 
+Economic
+Zone Re-
+investment 
+reserve (2)
+Other 
+reserves (3)
+Equity 
+instruments 
+through other 
+comprehensive 
+income
+Exchange 
+differences 
+on 
+translating 
+the 
+financial 
+statements 
+of a 
+foreign 
+operation
+Effective 
+portion 
+of cash 
+flow 
+hedges
+Other items 
+of other 
+comprehensive 
+income / (loss)
+Balance as at 
+April 1, 2022
+ 
+2,098 
+ 54 
+ 139 
+ 200  61,313  1,061 
+ 606 
+ 8,339 
+ 16 
+ 254 
+ 1,560 
+ 2 
+ (292)
+ 75,350 
+ 386 
+ 
+75,736 
+Impact on adoption 
+of amendment to 
+Ind AS 37#
+ –
+ –
+ –
+ –
+ (19)
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ (19)
+ –
+ (19)
+2,098 
+ 54 
+ 139 
+ 200  61,294  1,061 
+ 606 
+ 8,339 
+ 16 
+ 254 
+ 1,560 
+ 2 
+ (292)
+ 75,331 
+ 386  75,717 
+Changes in equity 
+for the year ended 
+March 31, 2023
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Profit for the period
+ –
+ –
+ –
+ –
+ 24,095 
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ 24,095 
+ 13  24,108 
+Remeasurement 
+of the net defined 
+benefit liability / 
+asset, net * (Refer to
+Note 2.22)
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ 8 
+ 8 
+ –
+ 8 
+Equity instruments 
+through other 
+comprehensive 
+income, net * (Refer 
+to Notes 2.5 and 
+2.17)
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ (7)
+ –
+ –
+ –
+ (7)
+ –
+ (7)
+Fair value changes 
+on derivatives 
+designated as cash 
+flow hedge, net * 
+(Refer to Note 2.11)
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ (7)
+ –
+ (7)
+ –
+ (7)
+Exchange 
+differences on 
+translation of 
+foreign operations
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ 765 
+ –
+ –
+ 765 
+ 11 
+ 776 
+Fair value changes 
+on investments, 
+net * (Refer to Notes 
+2.5 and 2.17)
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ (256)
+ (256)
+ –
+ (256)
+Total 
+Comprehensive 
+income for the 
+period
+ –
+ –
+ –
+ – 24,095 
+ –
+ –
+ –
+ –
+ (7)
+ 765 
+ (7)
+ (248)
+ 24,598 
+ 24 
+ 
+24,622 
+Shares issued 
+on exercise of 
+employee stock 
+options (Refer to 
+Note 2.12)
+ 1 
+ –
+ –
+ 34 
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ 35 
+ –
+ 35 
+Consolidated Statement of Changes in Equity (contd.)
+(In ₹ crore)
+
+
+============================== PDF PAGE 278 ==============================
+
+Infosys Integrated Annual Report 2022-23
+306
+Particulars
+Equity 
+share 
+capital 
+(1)
+Other equity
+Total equity 
+attributable 
+to equity 
+holders 
+of the 
+Company
+Non-
+controlling 
+interest
+Total 
+equity
+Reserves and surplus
+Other comprehensive income
+Capital 
+reserve
+Capital 
+redemption 
+reserve
+Securities 
+premium
+Retained 
+earnings
+General 
+reserve
+Share
+options 
+outstanding 
+account
+Special 
+Economic
+Zone Re-
+investment 
+reserve (2)
+Other 
+reserves (3)
+Equity 
+instruments 
+through other 
+comprehensive 
+income
+Exchange 
+differences 
+on 
+translating 
+the 
+financial 
+statements 
+of a 
+foreign 
+operation
+Effective 
+portion 
+of cash 
+flow 
+hedges
+Other items 
+of other 
+comprehensive 
+income / (loss)
+Employee stock 
+compensation 
+expense (Refer to 
+Note 2.12)
+ –
+ –
+ –
+ –
+ –
+ –
+ 514 
+ –
+ –
+ –
+ –
+ –
+ –
+ 514 
+ –
+ 514 
+Transferred to legal 
+reserve
+ –
+ –
+ –
+ –
+ (3)
+ –
+ –
+ –
+ 3 
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+Transferred on 
+account of exercise 
+of stock options
+ –
+ –
+ –
+ 291 
+ –
+ –
+ (291)
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+Transferred on 
+account of options 
+not exercised
+ –
+ –
+ –
+ –
+ –
+ 2 
+ (2)
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+Buyback of equity 
+shares (Refer to Note 
+2.12) **
+ (30)
+ –
+ –
+ (340)
+ 
+(11,096)
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ (11,466)
+ –
+ 
+(11,466)
+Transaction costs 
+relating to buyback *
+ –
+ –
+ –
+ (19)
+ (5)
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ (24)
+ –
+ (24)
+Amount transferred 
+to capital 
+redemption reserve 
+upon buyback
+ –
+ –
+ 30 
+ –
+ (21)
+ (9)
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+Income tax benefit 
+arising on exercise 
+of stock options
+ –
+ –
+ –
+ –
+ –
+ –
+ 51 
+ –
+ –
+ –
+ –
+ –
+ –
+ 51 
+ –
+ 51 
+Dividends (1)
+ –
+ –
+ –
+ – (13,632)
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ (13,632)
+ – (13,632)
+Dividends paid to 
+non-controlling 
+interest of 
+subsidiary
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ (22)
+ (22)
+Transferred to 
+Special Economic 
+Zone Re-
+investment Reserve
+ –
+ –
+ –
+ –
+ (3,139)
+ –
+ –
+ 3,139 
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+Transferred from 
+Special Economic 
+Zone Re-
+investment Reserve 
+on utilization
+ –
+ –
+ –
+ –
+ 1,464 
+ –
+ –
+ (1,464)
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+ –
+Balance as at 
+March 31, 2023
+ 2,069 
+ 54 
+ 169 
+ 166 
+ 58,957 
+ 1,054 
+ 878 
+ 10,014 
+ 19 
+ 247 
+ 2,325 
+(5)
+(540)
+ 75,407 
+ 388 
+ 75,795 
+Consolidated Financial Statements
+
+
+============================== PDF PAGE 279 ==============================
+
+Infosys Integrated Annual Report 2022-23
+307
+*	
+Net of tax
+**	 Including tax on buyback of ₹2,166 crore and ₹1,893 crore for the years ended March 31, 2023 and March 31, 2022, respectively.
+#	
+Impact on account of adoption of amendment to Ind AS 37, Provisions, Contingent Liabilities and Contingents Assets
+(1)	 Net of treasury shares
+(2)	 The Special Economic Zone Re-investment Reserve has been created out of the profit of eligible SEZ units in terms of the provisions of Sec 10AA(i)(ii) of Income-tax Act, 1961. The reserve should be utilized 
+by the Group for acquiring new plant and machinery for the purpose of its business in the terms of the Sec 10AA( 2 ) of the Income-tax Act, 1961.
+(3)	 Under the Swiss Code of Obligation, few subsidiaries of Infosys Consulting are required to appropriate a certain percentage of the annual profit to legal reserve which may be used only to cover losses or 
+for measures designed to sustain the Company through difficult times, to prevent unemployment or to mitigate its consequences.
+The accompanying notes form an integral part of the Consolidated financial statements.
+As per our report of even date attached
+for Deloitte Haskins & Sells LLP
+Chartered Accountants
+Firm’s Registration No.:
+117366W/W-100018
+for and on behalf of the Board of Directors of Infosys Limited
+Sanjiv V. Pilgaonkar
+Partner
+Membership No. 039826
+D. Sundaram
+Lead Independent
+Director
+Salil Parekh
+Chief Executive Officer 
+and Managing Director
+Bobby Parikh
+Director
+Bengaluru
+April 13, 2023
+Nilanjan Roy
+Chief Financial Officer
+Jayesh Sanghrajka
+Executive Vice President and
+Deputy Chief Financial Officer
+A.G.S. Manikantha
+Company Secretary
+
+
+============================== PDF PAGE 280 ==============================
+
+Infosys Integrated Annual Report 2022-23
+308
+Consolidated Statement of Cash Flows
+Accounting policy
+Cash flows are reported using the indirect method, whereby profit for the period is adjusted for the effects of transactions of a non-
+cash nature, any deferrals or accruals of past or future operating cash receipts or payments and item of income or expenses associated 
+with investing or financing cash flows. The cash flows from operating, investing and financing activities of the Group are segregated. 
+The Group considers all highly liquid investments that are readily convertible to known amounts of cash to be cash equivalents.
+(In ₹ crore)
+Particulars
+Note
+Year ended March 31,
+2023
+2022
+Cash flow from operating activities
+ 
+ 
+ 
+Profit for the year
+ 
+ 24,108
+ 22,146
+Adjustments to reconcile net profit to net cash provided by operating activities:
+ 
+ 
+ 
+Income tax expense
+2.17
+ 9,214
+ 7,964
+Depreciation and amortization
+2.2, 2.4.2 and 2.21
+ 4,225
+ 3,476
+Interest and dividend income
+2.19
+ (1,817)
+ (1,645)
+Finance cost
+ 
+ 284
+ 200
+Impairment loss recognized / (reversed) under expected credit loss model
+ 
+ 283
+ 170
+Exchange differences on translation of assets and liabilities, net
+ 
+ 161
+ 119
+Stock compensation expense
+2.12
+ 519
+ 415
+Other adjustments
+ 
+ 628
+ 76
+Changes in assets and liabilities
+ 
+ 
+ 
+Trade receivables and unbilled revenue
+ 
+ (7,076)
+ (7,937)
+Loans, other financial assets and other assets
+ 
+ (3,108)
+ (1,914)
+Trade payables
+ 
+ (279)
+ 1,489
+Other financial liabilities, other liabilities and provisions
+ 
+ 4,119
+ 6,938
+Cash generated from operations
+ 
+31,261
+31,497
+Income taxes paid
+ 
+ (8,794)
+ (7,612)
+Net cash generated by operating activities
+ 
+22,467
+23,885
+Cash flows from investing activities
+ 
+ 
+ 
+Expenditure on property, plant and equipment and intangibles
+ 
+ (2,579)
+ (2,161)
+Deposits placed with corporation
+ 
+ (996)
+ (906)
+Redemption of deposits placed with corporation
+ 
+ 762
+ 753
+Interest and dividend received
+ 
+ 1,525
+ 1,898
+Payment towards acquisition of business, net of cash acquired
+ (910)
+– 
+Payment of contingent consideration pertaining to acquisition of business
+ 
+ (60)
+ (53)
+Escrow and other deposits pertaining to buyback
+ 
+ (483)
+ (420)
+Redemption of escrow and other deposits pertaining to buyback
+ 
+ 483
+ 420
+Other receipts
+ 
+ 71
+ 67
+Other payments
+ 
+ –
+ (22)
+Payments to acquire investments
+ 
+ 
+ 
+Tax-free bonds and government bonds
+ 
+ (27)
+ –
+Liquid mutual fund units
+ 
+ (70,631)
+ (54,064)
+Target maturity fund
+ 
+ (400)
+ –
+Certificates of deposit
+ 
+ (10,348)
+ (4,184)
+Consolidated Financial Statements
+
+
+============================== PDF PAGE 281 ==============================
+
+Infosys Integrated Annual Report 2022-23
+309
+Particulars
+Note
+Year ended March 31,
+2023
+2022
+Commercial paper
+ 
+ (3,003)
+ –
+Non-convertible debentures
+ 
+ (249)
+ (1,609)
+Government securities
+ 
+ (1,569)
+ (4,254)
+Others
+ 
+ (20)
+ (24)
+Proceeds on sale of investments
+ 
+ 
+ 
+Tax-free bonds and government bonds
+ 
+ 221
+ 20
+Liquid mutual funds units
+ 
+ 71,851
+ 53,669
+Certificates of deposit
+ 
+ 10,404
+ 787
+Commercial paper
+ 
+ 2,298
+ –
+Non-convertible debentures
+ 
+ 470
+ 2,201
+Government securities
+ 
+ 1,882
+ 1,457
+Equity and preference securities
+ 
+ 99
+ –
+Others
+ 
+ –
+ 9
+Net cash (used in) / generated from investing activities
+ 
+(1,209)
+(6,416)
+Cash flows from financing activities
+ 
+ 
+ 
+Payment of lease liabilities
+ 
+ (1,231)
+ (915)
+Payment of dividends
+ 
+ (13,631)
+ (12,652)
+Payment of dividend to non-controlling interest of subsidiary
+ 
+ (22)
+ (79)
+Shares issued on exercise of employee stock options
+ 
+ 35
+ 21
+Payment towards purchase of non-controlling interest
+ 
+ –
+ (2)
+Other receipts
+ 
+ 132
+ 236
+Other payments
+ 
+ (479)
+ (126)
+Buyback of equity shares including transaction cost and tax on buyback
+ 
+ (11,499)
+ (11,125)
+Net cash used in financing activities
+ 
+(26,695)
+(24,642)
+Net increase / (decrease) in cash and cash equivalents
+ 
+ (5,437)
+ (7,173)
+Effect of exchange rate changes on cash and cash equivalents
+ 
+ 138
+ (69)
+Cash and cash equivalents at the beginning of the period
+2.9
+ 17,472
+ 24,714
+Cash and cash equivalents at the end of the period
+2.9
+12,173
+17,472
+Supplementary information
+Restricted cash balance
+2.9
+362
+471
+The accompanying notes form an integral part of the Consolidated financial statements.
+As per our report of even date attached
+for Deloitte Haskins & Sells LLP
+Chartered Accountants
+Firm’s Registration No.:
+117366W/W-100018
+for and on behalf of the Board of Directors of Infosys Limited
+Sanjiv V. Pilgaonkar
+Partner
+Membership No. 039826
+D. Sundaram
+Lead Independent
+Director
+Salil Parekh
+Chief Executive Officer
+and Managing Director
+Bobby Parikh
+Director
+Bengaluru
+April 13, 2023
+Nilanjan Roy
+Chief Financial Officer
+Jayesh Sanghrajka
+Executive Vice President and
+Deputy Chief Financial Officer
+A.G.S. Manikantha
+Company Secretary
+Consolidated Statement of Cash Flows (contd.)

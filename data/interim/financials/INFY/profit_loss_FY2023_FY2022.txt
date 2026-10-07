@@ -1,0 +1,233 @@
+
+===== PDF PAGE 273 =====
+Infosys Integrated Annual Report 2022-23
+301
+(In ₹ crore, except equity share and per equity share data)
+Particulars
+ Note
+Year ended March 31,
+2023
+2022
+Revenue from operations
+2.18
+ 1,46,767
+ 1,21,641
+Other income, net
+2.19
+ 2,701
+ 2,295
+Total income
+ 
+ 1,49,468
+ 1,23,936
+Expenses
+ 
+ 
+ 
+Employee benefit expenses
+2.22
+ 78,359
+ 63,986
+Cost of technical sub-contractors
+ 
+ 14,062
+ 12,606
+Travel expenses
+ 
+ 1,525
+ 827
+Cost of software packages and others
+2.20
+ 10,902
+ 6,811
+Communication expenses
+ 
+ 713
+ 611
+Consultancy and professional charges
+ 
+ 1,684
+ 1,885
+Depreciation and amortization expenses
+2.2, 2.4.2 and 2.21
+ 4,225
+ 3,476
+Finance cost
+ 
+ 284
+ 200
+Other expenses
+2.20
+ 4,392
+ 3,424
+Total expenses
+ 
+ 1,16,146
+ 93,826
+Profit before tax
+ 
+ 33,322
+ 30,110
+Tax expense:
+ 
+ 
+ 
+Current tax
+2.17
+ 9,287
+ 7,811
+Deferred tax
+2.17
+ (73)
+ 153
+Profit for the period
+ 
+ 24,108
+ 22,146
+Consolidated Statement of Profit and Loss
+
+
+===== PDF PAGE 274 =====
+Infosys Integrated Annual Report 2022-23
+302
+Particulars
+ Note
+Year ended March 31,
+2023
+2022
+Other comprehensive income
+ 
+ 
+ 
+Items that will not be reclassified subsequently to profit or loss
+ 
+ 
+ 
+Remeasurement of the net defined benefit liability / asset, net
+2.22
+ 8
+ (85)
+Equity instruments through other comprehensive income, net
+2.5
+ (7)
+ 96
+ 
+ 
+ 1
+ 11
+Items that will be reclassified subsequently to profit or loss
+ 
+ 
+ 
+Fair value changes on derivatives designated as cash flow hedge, net
+2.11
+ (7)
+ (8)
+Exchange differences on translation of foreign operations
+ 
+ 776
+ 228
+Fair value changes on investments, net
+2.5
+ (256)
+ (49)
+ 
+ 
+ 513
+ 171
+Total other comprehensive income / (loss), net of tax
+ 
+ 514
+ 182
+Total comprehensive income for the period
+ 
+ 24,622
+ 22,328
+Profit attributable to:
+ 
+ 
+ 
+Owners of the Company
+ 
+ 24,095
+ 22,110
+Non-controlling interests
+ 
+ 13
+ 36
+ 
+ 
+ 24,108
+ 22,146
+Total comprehensive income attributable to:
+ 
+ 
+ 
+Owners of the Company
+ 
+ 24,598
+ 22,293
+Non-controlling interests
+ 
+ 24
+ 35
+ 
+ 
+ 24,622
+ 22,328
+Earnings per equity share
+ 
+ 
+Equity shares of par value ₹5 each
+ 
+ 
+ 
+Basic (₹)
+ 
+ 57.63
+ 52.52
+Diluted (₹)
+ 
+ 57.54
+ 52.41
+Weighted average equity shares used in computing earnings per equity share
+ 
+ 
+ 
+Basic (in shares)
+2.23
+418,08,97,857
+420,95,46,724
+Diluted (in shares)
+2.23
+418,77,31,070
+ 421,85,25,134
+The accompanying notes form an integral part of the Consolidated financial statements.
+As per our report of even date attached
+for Deloitte Haskins & Sells LLP
+Chartered Accountants
+Firm’s Registration No.:
+117366W/W-100018
+for and on behalf of the Board of Directors of Infosys Limited
+Sanjiv V. Pilgaonkar
+Partner
+Membership No. 039826
+D. Sundaram
+Lead Independent Director
+Salil Parekh
+Chief Executive Officer
+and Managing Director
+Bobby Parikh
+Director
+Bengaluru
+April 13, 2023
+Nilanjan Roy
+Chief Financial Officer
+Jayesh Sanghrajka
+Executive Vice President and
+Deputy Chief Financial Officer
+A.G.S. Manikantha 
+Company Secretary
+ 
+Consolidated Statement of Profit and Loss (contd.)
+Consolidated Financial Statements

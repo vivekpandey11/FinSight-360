@@ -1,0 +1,193 @@
+
+===== PDF PAGE 375 =====
+372
+Consolidated Financial Statements
+Note 
+No.
+Year ended
+31 March 2026
+31 March 2025
+I
+Revenue
+Revenue from operations
+3.19
+130,144
+117,055
+Other income
+3.20
+1,530
+2,485
+Total income
+131,674
+119,540
+II
+Expenses
+Purchase of stock-in-trade
+2,715
+1,976
+Changes in inventories of stock-in-trade
+3.21
+(106)
+52
+Employee benefits expense
+3.22
+74,143
+66,755
+Outsourcing costs
+18,422
+15,162
+Finance costs
+3.23
+869
+644
+Depreciation and amortization expense
+4,355
+4,084
+Other expenses
+3.24
+8,218
+7,606
+Total expenses
+108,616
+96,279
+III
+Profit before exceptional item and tax
+23,058
+23,261
+IV
+Exceptional Item
+One time impact of New Labour Codes
+3.36
+956
+-
+V
+Profit before tax
+22,102
+23,261
+VI
+Tax expense
+3.25
+Current tax
+5,105
+5,161
+Deferred tax charge
+345
+701
+Total tax expense
+5,450
+5,862
+VII
+Profit for the year
+16,652
+17,399
+VIII
+Other comprehensive income (loss)
+3.26
+(A)
+(i)	
+Items that will not be reclassified to statement of profit and loss
+(559)
+(1)
+(ii)	
+Income tax relating to items that will not be reclassified to 
+statement of profit and loss
+148
+20
+(B)
+(i)	
+Items that will be reclassified to statement of profit and loss
+3,633
+681
+(ii)	
+Income tax relating to items that will be reclassified to statement 
+of profit and loss
+487
+5
+Total other comprehensive income (loss), net of tax
+3,709
+705
+IX
+Total comprehensive income for the year
+20,361
+18,104
+Consolidated Statement of Profit and Loss
+(All amounts in crores of ₹, except share data and as stated otherwise)
+
+
+===== PDF PAGE 376 =====
+373
+Consolidated Statement of Profit and Loss
+(All amounts in crores of ₹, except share data and as stated otherwise)
+Note 
+No.
+Year ended
+31 March 2026
+31 March 2025
+Profit (loss) for the year attributable to
+Owners of the Company
+16,642
+17,390
+Non-controlling interest
+10
+9
+16,652
+17,399
+Other comprehensive income for the year attributable to
+Owners of the Company
+3,705
+704
+Non-controlling interest
+4
+1
+3,709
+705
+Total comprehensive income for the year attributable to
+Owners of the Company
+20,347
+18,094
+Non-controlling interest
+14
+10
+20,361
+18,104
+Earnings per equity share of ₹ 2 each
+3.27
+Basic (in ₹)
+61.46
+64.16
+Diluted (in ₹)
+61.36
+64.09
+The accompanying notes including material accounting policies are an integral part of the consolidated financial statements
+As per our report of even date attached
+For B S R & Co. LLP	
+For and on behalf of the Board of Directors of HCL Technologies Limited 
+Chartered Accountants 
+Firm’s Registration No : 101248W/W-100022
+Rakesh Dewan	
+Roshni Nadar Malhotra	
+C. Vijayakumar	
+Deepak Kapoor 
+Partner	
+Chairperson	
+Chief Executive Officer	
+Director 
+Membership Number: 092212	
+DIN - 02346621	
+and Managing Director	
+DIN - 00162957 
+	
+DIN - 09244485
+	
+Shiv Walia	
+Goutam Rungta	
+Manish Anand 
+	
+Chief Financial Officer	
+Corporate Vice President - Finance	
+Company Secretary
+Gurugram, India	
+Noida (UP), India 
+21 April 2026	
+21 April 2026
+HCLTech Integrated Annual Report 2025-26

@@ -1,0 +1,1298 @@
+
+
+============================== PDF PAGE 373 ==============================
+
+370
+Consolidated Financial Statements
+Note
+No.
+As at
+31 March 2026
+31 March 2025
+I
+ASSETS
+(1)	
+Non-current assets
+(a)	 Property, plant and equipment
+3.1
+4,657
+4,501
+(b)	 Capital work in progress
+3.1
+60
+59
+(c)	 Right-of-use assets
+3.28(a)
+3,592
+3,016
+(d)	 Goodwill
+3.2
+23,888
+21,756
+(e)	 Other intangible assets
+3.3
+5,160
+6,899
+(f)	 Intangible assets under development
+82
+-
+(g)	 Financial assets
+(i)	
+Investments
+3.4
+130
+91
+(ii)	
+Trade receivables - unbilled
+3.5(a)
+601
+1,022
+(iii)	 Loans
+3.6
+50
+586
+(iv)	 Others
+3.7
+3,585
+2,212
+(h)	 Deferred tax assets (net)
+3.25
+1,146
+1,064
+(i)	 Other non-current assets
+3.9
+2,765
+2,229
+Total non-current assets
+45,716
+43,435
+(2)	
+Current assets
+(a)	 Inventories
+3.8
+239
+133
+(b)	 Financial assets
+(i)	
+Investments
+3.4
+6,960
+7,473
+(ii)	 Trade receivables
+Billed
+3.5(b)
+23,585
+19,523
+Unbilled
+3.5(b)
+7,956
+6,319
+(iii)	 Cash and cash equivalents
+3.10(a)
+8,265
+8,245
+(iv)	 Other bank balances
+3.10(b)
+15,160
+13,044
+(v)	 Loans
+3.6
+1,017
+976
+(vi)	 Others
+3.7
+1,626
+1,589
+(c)	 Current tax assets (net)
+226
+148
+(d)	 Other current assets
+3.11
+5,508
+4,659
+Total current assets
+70,542
+62,109
+TOTAL ASSETS
+116,258
+105,544
+II
+EQUITY
+(a)	 Equity share capital
+3.12
+543
+543
+(b)	 Other equity
+74,622
+69,112
+Equity attributable to owners of the Company
+75,165
+69,655
+Non-controlling interest
+32
+18
+TOTAL EQUITY
+75,197
+69,673
+Consolidated Balance Sheet
+(All amounts in crores of ₹, except share data and as stated otherwise)
+
+
+============================== PDF PAGE 374 ==============================
+
+371
+Consolidated Balance Sheet
+(All amounts in crores of ₹, except share data and as stated otherwise)
+Note
+No.
+As at
+31 March 2026
+31 March 2025
+III
+LIABILITIES
+(1)	
+Non-current liabilities
+(a)	 Financial liabilities
+(i)	
+Borrowings
+3.13
+37
+70
+(ii)	
+Lease liabilities
+3.28(a)
+3,180
+2,638
+(iii)	 Others
+3.15
+1,401
+464
+(b)	 Contract liabilities
+1,162
+1,059
+(c)	 Provisions
+3.16
+2,001
+1,920
+(d)	 Deferred tax liabilities (net)
+3.25
+1,381
+1,615
+(e)	 Other non-current liabilities
+3.17
+73
+66
+Total non-current liabilities
+9,235
+7,832
+(2)	
+Current liabilities
+(a)	 Financial liabilities
+(i)	
+Borrowings
+3.13
+122
+2,221
+(ii)	
+Lease liabilities
+3.28(a)
+1,876
+1,347
+(iii)	 Trade payables
+Billed
+3.14
+3,726
+3,016
+Unbilled
+3.14
+3,980
+3,209
+(iv)	 Others
+3.15
+9,228
+7,009
+(b)	 Contract liabilities
+5,053
+4,657
+(c)	 Other current liabilities
+3.18
+2,315
+2,278
+(d)	 Provisions
+3.16
+1,664
+1,487
+(e)	 Current tax liabilities (net)
+3,862
+2,815
+Total current liabilities
+31,826
+28,039
+TOTAL LIABILITIES
+41,061
+35,871
+TOTAL EQUITY AND LIABILITIES
+116,258
+105,544
+The accompanying notes including material accounting policies are an integral part of the consolidated financial statements
+As per our report of even date attached
+For B S R & Co. LLP	
+For and on behalf of the Board of Directors of HCL Technologies Limited 
+Chartered Accountants 
+Firm’s Registration No : 101248W/W-100022
+Rakesh Dewan	
+Roshni Nadar Malhotra	
+C. Vijayakumar	
+Deepak Kapoor 
+Partner	
+Chairperson	
+Chief Executive Officer	
+Director 
+Membership Number: 092212	
+DIN - 02346621	
+and Managing Director	
+DIN - 00162957 
+	
+DIN - 09244485
+	
+Shiv Walia	
+Goutam Rungta	
+Manish Anand 
+	
+Chief Financial Officer	
+Corporate Vice President - Finance	
+Company Secretary
+Gurugram, India	
+Noida (UP), India 
+21 April 2026	
+21 April 2026
+HCLTech Integrated Annual Report 2025-26
+
+
+============================== PDF PAGE 375 ==============================
+
+372
+Consolidated Financial Statements
+Note 
+No.
+Year ended
+31 March 2026
+31 March 2025
+I
+Revenue
+Revenue from operations
+3.19
+130,144
+117,055
+Other income
+3.20
+1,530
+2,485
+Total income
+131,674
+119,540
+II
+Expenses
+Purchase of stock-in-trade
+2,715
+1,976
+Changes in inventories of stock-in-trade
+3.21
+(106)
+52
+Employee benefits expense
+3.22
+74,143
+66,755
+Outsourcing costs
+18,422
+15,162
+Finance costs
+3.23
+869
+644
+Depreciation and amortization expense
+4,355
+4,084
+Other expenses
+3.24
+8,218
+7,606
+Total expenses
+108,616
+96,279
+III
+Profit before exceptional item and tax
+23,058
+23,261
+IV
+Exceptional Item
+One time impact of New Labour Codes
+3.36
+956
+-
+V
+Profit before tax
+22,102
+23,261
+VI
+Tax expense
+3.25
+Current tax
+5,105
+5,161
+Deferred tax charge
+345
+701
+Total tax expense
+5,450
+5,862
+VII
+Profit for the year
+16,652
+17,399
+VIII
+Other comprehensive income (loss)
+3.26
+(A)
+(i)	
+Items that will not be reclassified to statement of profit and loss
+(559)
+(1)
+(ii)	
+Income tax relating to items that will not be reclassified to 
+statement of profit and loss
+148
+20
+(B)
+(i)	
+Items that will be reclassified to statement of profit and loss
+3,633
+681
+(ii)	
+Income tax relating to items that will be reclassified to statement 
+of profit and loss
+487
+5
+Total other comprehensive income (loss), net of tax
+3,709
+705
+IX
+Total comprehensive income for the year
+20,361
+18,104
+Consolidated Statement of Profit and Loss
+(All amounts in crores of ₹, except share data and as stated otherwise)
+
+
+============================== PDF PAGE 376 ==============================
+
+373
+Consolidated Statement of Profit and Loss
+(All amounts in crores of ₹, except share data and as stated otherwise)
+Note 
+No.
+Year ended
+31 March 2026
+31 March 2025
+Profit (loss) for the year attributable to
+Owners of the Company
+16,642
+17,390
+Non-controlling interest
+10
+9
+16,652
+17,399
+Other comprehensive income for the year attributable to
+Owners of the Company
+3,705
+704
+Non-controlling interest
+4
+1
+3,709
+705
+Total comprehensive income for the year attributable to
+Owners of the Company
+20,347
+18,094
+Non-controlling interest
+14
+10
+20,361
+18,104
+Earnings per equity share of ₹ 2 each
+3.27
+Basic (in ₹)
+61.46
+64.16
+Diluted (in ₹)
+61.36
+64.09
+The accompanying notes including material accounting policies are an integral part of the consolidated financial statements
+As per our report of even date attached
+For B S R & Co. LLP	
+For and on behalf of the Board of Directors of HCL Technologies Limited 
+Chartered Accountants 
+Firm’s Registration No : 101248W/W-100022
+Rakesh Dewan	
+Roshni Nadar Malhotra	
+C. Vijayakumar	
+Deepak Kapoor 
+Partner	
+Chairperson	
+Chief Executive Officer	
+Director 
+Membership Number: 092212	
+DIN - 02346621	
+and Managing Director	
+DIN - 00162957 
+	
+DIN - 09244485
+	
+Shiv Walia	
+Goutam Rungta	
+Manish Anand 
+	
+Chief Financial Officer	
+Corporate Vice President - Finance	
+Company Secretary
+Gurugram, India	
+Noida (UP), India 
+21 April 2026	
+21 April 2026
+HCLTech Integrated Annual Report 2025-26
+
+
+============================== PDF PAGE 377 ==============================
+
+374
+Consolidated Financial Statements
+Equity share capital
+Other equity
+Non 
+Con-
+trolling 
+Interest
+Total 
+Equity
+Number of 
+shares*
+Share 
+capital
+Reserves and Surplus
+Other comprehensive income
+Total 
+other 
+equity
+Retained 
+earnings
+Remeasure-
+ment of de-
+fined benefit 
+plans
+Treasury 
+share 
+reserve
+Secu-
+rities 
+premium
+Capital 
+redemp-
+tion 
+reserve
+Share 
+based 
+payment 
+reserve
+Special 
+economic 
+zone re-in-
+vestment 
+reserve
+Foreign 
+currency 
+trans-
+lation 
+reserve
+Cash 
+flow 
+hedging 
+reserve
+Debt instru-
+ments through 
+other com-
+prehensive 
+income
+Balance as at 1 April 2024
+2,713,665,096
+543
+56,432
+207
+(722)
+7
+14
+639
+5,503
+5,145
+497
+(2)
+67,720
+8
+68,271
+Profit for the year
+-
+-
+17,390
+-
+-
+-
+-
+-
+-
+-
+-
+-
+17,390
+9
+17,399
+Other comprehensive income 
+(loss) (refer note 3.26)
+-
+-
+-
+19
+-
+-
+-
+-
+-
+813
+(140)
+12
+704
+1
+705
+Total comprehensive income 
+(loss) for the year
+-
+-
+17,390
+19
+-
+-
+-
+-
+-
+813
+(140)
+12
+18,094
+10
+18,104
+Transactions with owners of the 
+Company
+Contributions and distributions
+Interim dividend of ₹ 60 per 
+share
+-
+-
+(16,254)
+-
+-
+-
+-
+-
+-
+-
+-
+-
+(16,254)
+-
+(16,254)
+Transfer to special economic 
+zone re-investment reserve
+-
+-
+(2,022)
+-
+-
+-
+-
+-
+2,022
+-
+-
+-
+-
+-
+-
+Transfer from special economic 
+zone re-investment reserve
+-
+-
+1,161
+-
+-
+-
+-
+-
+(1,161)
+-
+-
+-
+-
+-
+-
+Share based payments to 
+employees
+-
+-
+-
+-
+-
+-
+-
+218
+-
+-
+-
+-
+218
+-
+218
+Acquisition of treasury shares
+-
+-
+-
+-
+(676)
+-
+-
+-
+-
+-
+-
+-
+(676)
+-
+(676)
+Issue of treasury shares to 
+employees
+-
+-
+(104)
+-
+691
+-
+-
+(587)
+-
+-
+-
+-
+-
+-
+-
+Excess tax benefit from share 
+based payments
+-
+-
+10
+-
+-
+-
+-
+-
+-
+-
+-
+-
+10
+-
+10
+Changes in ownership interests
+Divestment in subsidiaries
+-
+-
+122
+(2)
+-
+-
+-
+-
+(120)
+-
+-
+-
+-
+-
+-
+Balance as at 31 March 2025
+2,713,665,096
+543
+56,735
+224
+(707)
+7
+14
+270
+6,244
+5,958
+357
+10
+69,112
+18
+69,673
+Balance as at 1 April 2025
+2,713,665,096
+543
+56,735
+224
+(707)
+7
+14
+270
+6,244
+5,958
+357
+10
+69,112
+18
+69,673
+Profit for the year
+-
+-
+16,642
+-
+-
+-
+-
+-
+-
+-
+-
+-
+16,642
+10
+16,652
+Other comprehensive income 
+(loss) (refer note 3.26)
+-
+-
+-
+(411)
+-
+-
+-
+-
+-
+5,559
+(1,419)
+(24)
+3,705
+4
+3,709
+Total comprehensive income 
+(loss) for the year
+-
+-
+16,642
+(411)
+-
+-
+-
+-
+-
+5,559
+(1,419)
+(24)
+20,347
+14
+20,361
+Consolidated Statement of Changes in Equity
+(All amounts in crores of ₹, except share data and as stated otherwise)
+
+
+============================== PDF PAGE 378 ==============================
+
+375
+As per our report of even date attached
+For B S R & Co. LLP	
+For and on behalf of the Board of Directors of HCL Technologies Limited 
+Chartered Accountants 
+Firm’s Registration No : 101248W/W-100022
+Rakesh Dewan	
+Roshni Nadar Malhotra	
+C. Vijayakumar	
+Deepak Kapoor 
+Partner	
+Chairperson	
+Chief Executive Officer	
+Director 
+Membership Number: 092212	
+DIN - 02346621	
+and Managing Director	
+DIN - 00162957 
+	
+DIN - 09244485
+	
+Shiv Walia	
+Goutam Rungta	
+Manish Anand 
+	
+Chief Financial Officer	
+Corporate Vice President - Finance	
+Company Secretary
+Gurugram, India	
+Noida (UP), India 
+21 April 2026	
+21 April 2026
+Consolidated Statement of Changes in Equity
+(All amounts in crores of ₹, except share data and as stated otherwise)
+Equity share capital
+Other equity
+Non 
+Con-
+trolling 
+Interest
+Total 
+Equity
+Number of 
+shares*
+Share 
+capital
+Reserves and Surplus
+Other comprehensive income
+Total 
+other 
+equity
+Retained 
+earnings
+Remeasure-
+ment of de-
+fined benefit 
+plans
+Treasury 
+share 
+reserve
+Secu-
+rities 
+premium
+Capital 
+redemp-
+tion 
+reserve
+Share 
+based 
+payment 
+reserve
+Special 
+economic 
+zone re-in-
+vestment 
+reserve
+Foreign 
+currency 
+trans-
+lation 
+reserve
+Cash 
+flow 
+hedging 
+reserve
+Debt instru-
+ments through 
+other com-
+prehensive 
+income
+Transactions with owners of the 
+Company
+Contributions and distributions
+Interim dividend of ₹ 54 per 
+share
+-
+-
+(14,621)
+-
+-
+-
+-
+-
+-
+-
+-
+-
+(14,621)
+-
+(14,621)
+Transfer to special economic 
+zone re-investment reserve
+-
+-
+(1,486)
+-
+-
+-
+-
+-
+1,486
+-
+-
+-
+-
+-
+-
+Transfer from special economic 
+zone re-investment reserve
+-
+-
+933
+-
+-
+-
+-
+-
+(933)
+-
+-
+-
+-
+-
+-
+Share based payments to 
+employees
+-
+-
+-
+-
+-
+-
+-
+481
+-
+-
+-
+-
+481
+-
+481
+Acquisition of treasury shares
+-
+-
+-
+-
+(711)
+-
+-
+-
+-
+-
+-
+-
+(711)
+-
+(711)
+Issue of treasury shares to 
+employees
+-
+-
+(32)
+-
+227
+-
+-
+(195)
+-
+-
+-
+-
+-
+-
+-
+Excess tax benefit from share 
+based payments
+-
+-
+14
+-
+-
+-
+-
+-
+-
+-
+-
+-
+14
+-
+14
+Balance as at 31 March 2026
+2,713,665,096
+543
+58,185
+(187)
+(1,191)
+7
+14
+556
+6,797
+11,517
+(1,062)
+(14)
+74,622
+32
+75,197
+* Includes treasury shares held by a controlled trust (refer note 3.12) 
+The accompanying notes including material accounting policies are an integral part of the consolidated financial statements
+HCLTech Integrated Annual Report 2025-26
+
+
+============================== PDF PAGE 379 ==============================
+
+376
+Consolidated Financial Statements
+Year ended
+31 March 2026
+31 March 2025
+A
+Cash flows from operating activities
+Profit before tax
+22,102
+23,261
+Adjustment for:
+Depreciation and amortization expense
+4,355
+4,084
+Interest income
+(1,542)
+(1,567)
+Provision for doubtful debts / bad debts written off (net)
+107
+15
+Income on investments carried at fair value through profit and loss
+(192)
+(195)
+Profit on sale of debt securities
+(2)
+-
+Interest expense
+434
+336
+Loss (profit) on sale of property, plant and equipment (net)
+4
+(10)
+Share based payment to employees
+478
+218
+Divestment in subsidiaries
+-
+(574)
+Other non-cash charges (net)
+(171)
+(74)
+25,573
+25,494
+Net change in
+Trade receivables
+(2,248)
+(119)
+Inventories
+(59)
+77
+Other financial assets and other assets
+86
+(225)
+Trade payables
+736
+249
+Other financial liabilities, contract liabilities, provisions and other liabilities
+(37)
+1,028
+Cash generated from operations
+24,051
+26,504
+Income taxes paid (net of refunds)
+(4,076)
+(4,243)
+Net cash flow from operating activities (A)
+19,975
+22,261
+B
+Cash flows from investing activities
+Purchase of property, plant and equipment and intangibles
+(1,422)
+(1,108)
+Proceeds from sale of property, plant and equipment
+23
+25
+Payments for business acquisitions, net of cash acquired
+(159)
+(1,982)
+Investments in bank deposits
+(17,350)
+(15,442)
+Proceeds from bank deposits
+15,164
+12,622
+Deposits placed with body corporates
+(480)
+(1,512)
+Proceeds from deposits placed with body corporates
+975
+1,030
+Purchase of investments in securities
+(48,685)
+(43,861)
+Proceeds from sale/maturity of investments in securities
+49,369
+43,711
+Investment in equity instruments
+(8)
+(4)
+Distribution from limited liability partnership
+3
+4
+Divestment in subsidiaries, net of cash
+-
+687
+Interest received
+1,430
+1,322
+Income taxes paid
+(333)
+(406)
+Net cash flow used in investing activities (B)
+(1,473)
+(4,914)
+C
+Cash flows from financing activities
+Repayment of long term borrowings
+(2,305)
+(84)
+Proceeds from short term borrowings
+318
+377
+Repayment of short term borrowings
+(321)
+(374)
+Payments for deferred and contingent consideration on business acquisitions
+(1)
+(50)
+Dividend paid
+(14,618)
+(16,250)
+Acquisition of treasury shares
+(711)
+(676)
+Interest paid
+(46)
+(51)
+Payment of lease liabilities including interest
+(1,685)
+(1,453)
+Net cash flow used in financing activities (C)
+(19,369)
+(18,561)
+Net decrease in cash and cash equivalents (A+B+C)
+(867)
+(1,214)
+Effect of exchange differences on cash and cash equivalents held in foreign currency
+817
+18
+Cash and cash equivalents at the beginning of the year
+8,245
+9,441
+Cash and cash equivalents at the end of the year as per note 3.10 (a)
+8,195
+8,245
+Consolidated Statement of Cash flows
+(All amounts in crores of ₹, except share data and as stated otherwise)
+
+
+============================== PDF PAGE 380 ==============================
+
+377
+Notes:
+1.	
+Reconciliation of changes in liabilities arising from financing activities
+Borrowings
+Deferred and 
+contingent 
+consideration
+Balance as at 1 April 2024
+2,312
+52
+Cashflows (net)
+(81)
+(50)
+Non cash changes
+Translation exchange differences
+56
+-
+Recognized in profit and loss
+4
+-
+Balance as at 31 March 2025
+2,291
+2
+Balance as at 1 April 2025
+2,291
+2
+Cashflows (net)
+(2,308)
+(1)
+Non cash changes
+Business combination
+-
+28
+Translation exchange differences
+102
+3
+Recognized in profit and loss
+4
+-
+Balance as at 31 March 2026
+89
+32
+2.	
+The total amount of income taxes paid is ₹ 4,409 crores (previous year, ₹ 4,649 crores).
+3.	
+Cash and cash equivalents includes earmarked balances with banks of ₹ 53 crores (31 March 2025 ₹ 19 crores) which is 
+of restricted use.
+The accompanying notes including material accounting policies are an integral part of the consolidated financial statements
+Consolidated Statement of Cash flows
+(All amounts in crores of ₹, except share data and as stated otherwise)
+As per our report of even date attached
+For B S R & Co. LLP	
+For and on behalf of the Board of Directors of HCL Technologies Limited 
+Chartered Accountants 
+Firm’s Registration No : 101248W/W-100022
+Rakesh Dewan	
+Roshni Nadar Malhotra	
+C. Vijayakumar	
+Deepak Kapoor 
+Partner	
+Chairperson	
+Chief Executive Officer	
+Director 
+Membership Number: 092212	
+DIN - 02346621	
+and Managing Director	
+DIN - 00162957 
+	
+DIN - 09244485
+	
+Shiv Walia	
+Goutam Rungta	
+Manish Anand 
+	
+Chief Financial Officer	
+Corporate Vice President - Finance	
+Company Secretary
+Gurugram, India	
+Noida (UP), India 
+21 April 2026	
+21 April 2026
+HCLTech Integrated Annual Report 2025-26
