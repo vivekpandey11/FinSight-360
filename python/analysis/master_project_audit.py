@@ -817,59 +817,53 @@ else:
         )
 
 # ============================================================
-# 12. POWER BI DATA MART
+# 12. FINAL HTML DASHBOARD AND REPORTING OUTPUTS
 # ============================================================
 
-required_pbi = [
-    "financial_performance.csv",
-    "financial_forecast.csv",
-    "peer_valuation.csv",
-    "dcf_valuation.csv",
-    "dcf_sensitivity.csv",
-    "portfolio_strategies.csv",
-    "portfolio_allocation.csv",
-    "portfolio_risk.csv",
-    "portfolio_stress.csv",
-    "fpa_variance.csv",
-    "treasury_kpis.csv",
-    "treasury_stress.csv",
-    "credit_scorecard.csv",
-    "credit_summary.csv"
+dashboard = ROOT / "dashboard" / "FinSight_360_Interactive_Dashboard.html"
+
+if not dashboard.is_file():
+    record("HTML DASHBOARD", "Dashboard file", "FAIL", "Missing")
+else:
+    html = dashboard.read_text(encoding="utf-8", errors="replace")
+
+    record(
+        "HTML DASHBOARD",
+        "Dashboard file",
+        "PASS" if len(html.strip()) > 1000 else "FAIL",
+        f"{len(html)} characters"
+    )
+
+required_reports = [
+    "tcs_dcf_final_equity_valuation.csv",
+    "tcs_dcf_per_share_sensitivity.csv",
+    "tcs_scenario_forecast_FY2027_FY2031.csv",
+    "portfolio_strategy_summary.csv",
+    "portfolio_risk_metrics.csv",
+    "portfolio_stress_tests.csv",
+    "tcs_fpa_budget_variance.csv",
+    "tcs_treasury_liquidity_kpis.csv",
+    "tcs_credit_scorecard.csv",
+    "fy2026_peer_relative_valuation.csv"
 ]
 
-for name in required_pbi:
+for name in required_reports:
+    path = R / name
 
-    path = PBI / name
+    if not path.is_file():
+        record("REPORTING", name, "FAIL", "Missing")
+        continue
 
-    if not path.exists():
-
+    try:
+        df = pd.read_csv(path)
         record(
-            "POWER BI",
+            "REPORTING",
             name,
-            "FAIL",
-            "Missing"
+            "PASS" if not df.empty else "FAIL",
+            f"{len(df)} rows"
         )
-
-    else:
-
-        try:
-            df = pd.read_csv(path)
-
-            record(
-                "POWER BI",
-                name,
-                "PASS" if len(df) > 0 else "FAIL",
-                f"{len(df)} rows"
-            )
-
-        except Exception as e:
-
-            record(
-                "POWER BI",
-                name,
-                "FAIL",
-                str(e)
-            )
+    except Exception as e:
+        record("REPORTING", name, "FAIL", str(e))
 
 # ============================================================
 # 13. KNOWN DATA / METHODOLOGY GAPS
@@ -1020,7 +1014,7 @@ if fails == 0:
     )
 
     print(
-        "NEXT: Resolve warnings before final Power BI/reporting."
+        "NEXT: Review methodology warnings and verify the HTML dashboard."
     )
 
 else:
@@ -1032,3 +1026,5 @@ else:
     print(
         "DO NOT PROCEED. Fix failures first."
     )
+
+

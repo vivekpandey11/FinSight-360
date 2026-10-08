@@ -41,20 +41,17 @@ CREDIT,Scorecard weights total 100%,PASS,Raw weight total = 100
 EXCEL,13 required worksheets,PASS,All present
 EXCEL,Workbook contains formulas,PASS,Formula count = 12
 EXCEL,No obvious broken formula references,PASS,None
-POWER BI,financial_performance.csv,PASS,5 rows
-POWER BI,financial_forecast.csv,PASS,15 rows
-POWER BI,peer_valuation.csv,PASS,3 rows
-POWER BI,dcf_valuation.csv,PASS,3 rows
-POWER BI,dcf_sensitivity.csv,PASS,25 rows
-POWER BI,portfolio_strategies.csv,PASS,3 rows
-POWER BI,portfolio_allocation.csv,PASS,9 rows
-POWER BI,portfolio_risk.csv,PASS,3 rows
-POWER BI,portfolio_stress.csv,PASS,12 rows
-POWER BI,fpa_variance.csv,PASS,3 rows
-POWER BI,treasury_kpis.csv,PASS,13 rows
-POWER BI,treasury_stress.csv,PASS,3 rows
-POWER BI,credit_scorecard.csv,PASS,7 rows
-POWER BI,credit_summary.csv,PASS,1 rows
+HTML DASHBOARD,Dashboard file,PASS,19718 characters
+REPORTING,tcs_dcf_final_equity_valuation.csv,PASS,3 rows
+REPORTING,tcs_dcf_per_share_sensitivity.csv,PASS,5 rows
+REPORTING,tcs_scenario_forecast_FY2027_FY2031.csv,PASS,15 rows
+REPORTING,portfolio_strategy_summary.csv,PASS,3 rows
+REPORTING,portfolio_risk_metrics.csv,PASS,3 rows
+REPORTING,portfolio_stress_tests.csv,PASS,12 rows
+REPORTING,tcs_fpa_budget_variance.csv,PASS,3 rows
+REPORTING,tcs_treasury_liquidity_kpis.csv,PASS,13 rows
+REPORTING,tcs_credit_scorecard.csv,PASS,7 rows
+REPORTING,fy2026_peer_relative_valuation.csv,PASS,3 rows
 METHODOLOGY,HCLTECH FY2024,WARNING,Some standardized FY2024 fields remain unavailable. Recovered CFF -15464 still requires final DB/CSV reconciliation.
 METHODOLOGY,HCLTECH Balance Sheet,WARNING,Some detailed receivables/PPE/payables fields are not yet standardized.
 METHODOLOGY,Net Income Attribution,WARNING,Consolidated PAT vs attributable-to-parent treatment needs final consistency review.
