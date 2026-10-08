@@ -1,4 +1,4 @@
-CREATE SCHEMA IF NOT EXISTS core;
+﻿CREATE SCHEMA IF NOT EXISTS core;
 CREATE SCHEMA IF NOT EXISTS market;
 CREATE SCHEMA IF NOT EXISTS fundamentals;
 CREATE SCHEMA IF NOT EXISTS analytics;
@@ -99,6 +99,7 @@ CREATE TABLE IF NOT EXISTS fundamentals.income_statements (
     profit_before_tax NUMERIC(20,2),
     tax_expense NUMERIC(20,2),
     net_income NUMERIC(20,2),
+    profit_attributable_to_owners NUMERIC(20,2),
     eps NUMERIC(18,4)
 );
 
@@ -116,7 +117,9 @@ CREATE TABLE IF NOT EXISTS fundamentals.balance_sheets (
     current_liabilities NUMERIC(20,2),
     total_debt NUMERIC(20,2),
     total_liabilities NUMERIC(20,2),
-    shareholders_equity NUMERIC(20,2)
+    shareholders_equity NUMERIC(20,2),
+    equity_attributable_to_owners NUMERIC(20,2),
+    non_controlling_interest NUMERIC(20,2)
 );
 
 
@@ -202,3 +205,4 @@ CREATE TABLE IF NOT EXISTS analytics.valuation_results (
     CONSTRAINT uq_valuation_result
         UNIQUE(company_id, valuation_date, scenario)
 );
+
