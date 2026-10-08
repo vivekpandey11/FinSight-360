@@ -1,0 +1,12 @@
+assumption,value,unit,status,methodology
+Beta,0.6933,x,VERIFIED_INTERNAL,Historical daily-return beta vs NIFTY50 using common trading dates
+Risk Free Rate,,%,PENDING_EXTERNAL,India long-term government bond yield
+Equity Risk Premium,,%,PENDING_EXTERNAL,India market equity risk premium assumption
+Pre-tax Cost of Debt,,%,PENDING,To be determined from debt / financing assumptions
+Debt Weight,,%,PENDING,Capital structure assumption
+Equity Weight,,%,PENDING,Capital structure assumption
+Terminal Growth - Bear,,%,PENDING,Long-run nominal growth assumption
+Terminal Growth - Base,,%,PENDING,Long-run nominal growth assumption
+Terminal Growth - Bull,,%,PENDING,Long-run nominal growth assumption
+Net Cash,,INR Crore,PENDING,Cash + eligible investments less debt; definition to be standardized
+Shares Outstanding,,Crore Shares,PENDING_EXTERNAL,Latest verified diluted/basic share count appropriate for valuation

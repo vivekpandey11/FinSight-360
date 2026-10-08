@@ -1,0 +1,13 @@
+portfolio,scenario,portfolio_loss_pct,loss_on_10lakh_inr,post_stress_value_inr
+Equal Weight,Broad IT Selloff,-13.67,136666.53,863333.47
+Equal Weight,Severe Tech Shock,-22.33,223333.11,776666.89
+Equal Weight,TCS Specific Shock,-9.33,93333.24,906666.76
+Equal Weight,HCLTECH Specific Shock,-10.0,99999.9,900000.1
+Minimum Volatility,Broad IT Selloff,-13.32,133150.03,866849.97
+Minimum Volatility,Severe Tech Shock,-21.89,218916.41,781083.59
+Minimum Volatility,TCS Specific Shock,-11.33,113265.54,886734.46
+Minimum Volatility,HCLTECH Specific Shock,-9.32,93247.85,906752.15
+Maximum Sharpe,Broad IT Selloff,-14.6,145997.84,854002.16
+Maximum Sharpe,Severe Tech Shock,-24.19,241932.32,758067.68
+Maximum Sharpe,TCS Specific Shock,-6.28,62801.1,937198.9
+Maximum Sharpe,HCLTECH Specific Shock,-16.95,169508.6,830491.4

@@ -1,0 +1,71 @@
+area,test,status,detail
+SOURCE,TCS annual reports,PASS,"Expected 3, found 3"
+SOURCE,INFY annual reports,PASS,"Expected 3, found 3"
+SOURCE,HCLTECH annual reports,PASS,"Expected 3, found 3"
+FILES,tcs_historical_financial_model_base.csv,PASS,5 rows x 30 cols
+FILES,tcs_scenario_forecast_FY2027_FY2031.csv,PASS,15 rows x 13 cols
+FILES,tcs_dcf_enterprise_value.csv,PASS,3 rows x 9 cols
+FILES,tcs_dcf_final_equity_valuation.csv,PASS,3 rows x 15 cols
+FILES,tcs_dcf_sensitivity_long.csv,PASS,25 rows x 3 cols
+FILES,fy2026_peer_relative_valuation.csv,PASS,3 rows x 20 cols
+FILES,tcs_relative_valuation_summary.csv,PASS,1 rows x 11 cols
+FILES,portfolio_strategy_summary.csv,PASS,3 rows x 7 cols
+FILES,portfolio_10lakh_allocation.csv,PASS,9 rows x 4 cols
+FILES,portfolio_risk_metrics.csv,PASS,3 rows x 11 cols
+FILES,portfolio_stress_tests.csv,PASS,12 rows x 5 cols
+FILES,tcs_fpa_budget_variance.csv,PASS,3 rows x 5 cols
+FILES,tcs_treasury_liquidity_kpis.csv,PASS,13 rows x 3 cols
+FILES,tcs_treasury_liquidity_stress.csv,PASS,3 rows x 9 cols
+FILES,tcs_credit_scorecard.csv,PASS,7 rows x 6 cols
+FILES,tcs_credit_risk_summary.csv,PASS,1 rows x 13 cols
+HISTORICAL,Five historical years,PASS,Rows = 5
+HISTORICAL,Revenue positive,PASS,
+HISTORICAL,ebitda_margin_pct reconciliation,PASS,Max diff = 0.000042 pp
+HISTORICAL,ebit_margin_pct reconciliation,PASS,Max diff = 0.000050 pp
+HISTORICAL,net_margin_pct reconciliation,PASS,Max diff = 0.000041 pp
+HISTORICAL,fcf_margin_pct reconciliation,PASS,Max diff = 0.000039 pp
+FORECAST,15 forecast observations,PASS,Rows = 15
+FORECAST,Five years each Bear/Base/Bull,PASS,"{'bear': 5, 'base': 5, 'bull': 5}"
+FORECAST,EBIT = Revenue x EBIT margin,PASS,Max diff = 0.0049
+FORECAST,NOPAT formula,PASS,Max diff = 0.0072
+FORECAST,FCFF formula,PASS,Max diff = 0.0200
+DCF,Three DCF scenarios,PASS,Rows = 3
+DCF,Bear < Base < Bull valuation,PASS,"{'bear': 1893.84, 'base': 2533.0, 'bull': 3211.57}"
+DCF,EV + net financial assets = parent equity,PASS,Max diff = 0.0000
+DCF,5x5 sensitivity grid,PASS,Rows = 25
+DCF,Value falls as WACC rises,PASS,
+COMPS,Three-company peer table,PASS,Rows = 3
+COMPS,Positive P/E values,PASS,"[19.39, 14.1, 15.39]"
+RISK,CVaR is worse than/equal to VaR,PASS,
+CREDIT,Scorecard weights total 100%,PASS,Raw weight total = 100
+EXCEL,13 required worksheets,PASS,All present
+EXCEL,Workbook contains formulas,PASS,Formula count = 12
+EXCEL,No obvious broken formula references,PASS,None
+POWER BI,financial_performance.csv,PASS,5 rows
+POWER BI,financial_forecast.csv,PASS,15 rows
+POWER BI,peer_valuation.csv,PASS,3 rows
+POWER BI,dcf_valuation.csv,PASS,3 rows
+POWER BI,dcf_sensitivity.csv,PASS,25 rows
+POWER BI,portfolio_strategies.csv,PASS,3 rows
+POWER BI,portfolio_allocation.csv,PASS,9 rows
+POWER BI,portfolio_risk.csv,PASS,3 rows
+POWER BI,portfolio_stress.csv,PASS,12 rows
+POWER BI,fpa_variance.csv,PASS,3 rows
+POWER BI,treasury_kpis.csv,PASS,13 rows
+POWER BI,treasury_stress.csv,PASS,3 rows
+POWER BI,credit_scorecard.csv,PASS,7 rows
+POWER BI,credit_summary.csv,PASS,1 rows
+METHODOLOGY,HCLTECH FY2024,WARNING,Some standardized FY2024 fields remain unavailable. Recovered CFF -15464 still requires final DB/CSV reconciliation.
+METHODOLOGY,HCLTECH Balance Sheet,WARNING,Some detailed receivables/PPE/payables fields are not yet standardized.
+METHODOLOGY,Net Income Attribution,WARNING,Consolidated PAT vs attributable-to-parent treatment needs final consistency review.
+METHODOLOGY,Equity Attribution,WARNING,Shareholders' equity vs total equity treatment needs final consistency review.
+METHODOLOGY,Sharpe / Sortino,WARNING,Current market and portfolio modules use a 0% risk-free baseline.
+METHODOLOGY,DCF WACC,WARNING,12.25% is currently a modelling assumption/equity-dominant proxy; final methodology/source note required.
+METHODOLOGY,Terminal Growth,WARNING,"Terminal growth rates are modelling assumptions, not observed company guidance."
+METHODOLOGY,DCF Net Financial Assets,WARNING,Treatment of investments/deposits as excess financial assets must be explicitly documented.
+METHODOLOGY,Lease Treatment,WARNING,Lease liabilities are deducted in the equity bridge while FCFF is not explicitly lease-adjusted.
+METHODOLOGY,DCF Timing,WARNING,DCF anchor is FY2026 year-end while market reference price is 06-Oct-2026.
+METHODOLOGY,FCF vs FCFF,WARNING,Historical FCF and forecast FCFF are different concepts and must not be presented as identical.
+METHODOLOGY,Relative Valuation,WARNING,EV/EBITDA is intentionally omitted until standardized peer net-debt/share inputs are available.
+METHODOLOGY,Credit Score,WARNING,Internal 98% credit score is analytical only and is not an external agency rating.
+METHODOLOGY,Portfolio Optimization,WARNING,Maximum-Sharpe portfolio is highly concentrated in HCLTECH; concentration risk must be disclosed.

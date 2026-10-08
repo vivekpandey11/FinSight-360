@@ -1,0 +1,4 @@
+scenario,wacc_pct,terminal_growth_pct,pv_explicit_fcff,terminal_fcff,terminal_value,pv_terminal_value,enterprise_value,terminal_value_pct_ev
+Bear,12.25,4.5,196796.22,63140.96,814722.05,457170.0,653966.22,69.91
+Base,12.25,5.5,230389.83,78770.64,1166972.39,654830.4,885220.22,73.97
+Bull,12.25,6.0,264715.74,96458.09,1543329.47,866017.97,1130733.7,76.59

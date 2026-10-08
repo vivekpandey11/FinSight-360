@@ -1,0 +1,4 @@
+portfolio,annual_volatility_pct,downside_volatility_pct,historical_var_95_daily_pct,historical_cvar_95_daily_pct,worst_day_pct,worst_day_date,max_drawdown_pct,var_95_loss_on_10lakh_inr,cvar_95_loss_on_10lakh_inr,max_drawdown_loss_on_10lakh_inr
+Equal Weight,22.1886,15.765,-2.0591,-3.2113,-8.4977,2020-03-12,-47.9157,20591.3794,32112.9654,479157.3347
+Minimum Volatility,21.9794,15.54,-2.069,-3.1778,-8.711,2020-03-12,-48.848,20689.8816,31778.3622,488479.9318
+Maximum Sharpe,24.4026,17.1998,-2.2631,-3.5135,-9.246,2026-04-22,-45.3319,22631.0612,35134.6788,453319.0637

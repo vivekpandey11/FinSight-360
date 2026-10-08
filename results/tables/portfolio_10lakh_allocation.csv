@@ -1,0 +1,10 @@
+portfolio,symbol,weight_pct,allocation_inr
+Equal Weight,TCS,33.33,333333.33
+Equal Weight,INFY,33.33,333333.33
+Equal Weight,HCLTECH,33.33,333333.33
+Minimum Volatility,TCS,48.67,486657.53
+Minimum Volatility,INFY,22.5,225023.43
+Minimum Volatility,HCLTECH,28.83,288319.03
+Maximum Sharpe,TCS,9.85,98469.88
+Maximum Sharpe,INFY,10.48,104806.44
+Maximum Sharpe,HCLTECH,79.67,796723.69

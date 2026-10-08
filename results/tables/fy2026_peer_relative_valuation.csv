@@ -1,0 +1,4 @@
+symbol,fiscal_year,trade_date,close_price,revenue,ebitda,ebit,net_income,eps,free_cash_flow,pe_ratio,earnings_yield_pct,ebitda_margin_pct,ebit_margin_pct,net_margin_pct,fcf_margin_pct,fcf_to_pat_pct,pe_rank,ebitda_margin_rank,fcf_conversion_rank
+HCLTECH,2026,2026-10-06,1191.8,130144.0,28282.0,23927.0,16652.0,61.46,18553.0,19.39,5.16,21.73,18.39,12.8,14.26,111.42,3.0,3.0,1.0
+INFY,2026,2026-10-06,1009.0,178650.0,45313.0,40411.0,29474.0,71.58,31259.0,14.1,7.09,25.36,22.62,16.5,17.5,106.06,1.0,2.0,2.0
+TCS,2026,2026-10-06,2093.4,267021.0,76800.0,71240.0,49454.0,136.01,48057.0,15.39,6.5,28.76,26.68,18.52,18.0,97.18,2.0,1.0,3.0

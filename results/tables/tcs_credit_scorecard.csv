@@ -1,0 +1,8 @@
+metric,value,unit,score,weight_pct,weighted_score
+Current Ratio,2.2278,x,5,15,0.75
+Liabilities / Equity,0.6891,x,5,10,0.5
+Debt-like Obligations / EBITDA,0.1486,x,5,20,1.0
+EBIT / Finance Cost,58.0603,x,5,20,1.0
+CFO / Total Liabilities,0.705,x,5,15,0.75
+EBITDA Margin,28.7618,%,5,10,0.5
+Liquid Assets / Current Liabilities,0.7205,x,4,10,0.4
