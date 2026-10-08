@@ -30,7 +30,7 @@ The project combines **Python ETL, PostgreSQL, SQL, financial modelling, Excel, 
 
 It was designed to demonstrate transferable capabilities for **Equity Research, Equity Valuation, Investment Research, Financial Analysis, FP&A, Portfolio Analysis, Market Risk, Treasury, Credit Analysis, and Data/Business Analytics** roles.
 
-> **Project status:** Core implementation and local Git commit complete. The last reported master audit returned **53 PASS · 14 methodology warnings · 0 hard failures**. Warnings are documented limitations, not proof of independently verified investment-grade accuracy. Public GitHub publication is a separate step.
+> **Project status:** Core implementation and local Git commit complete. The last reported master audit returned **53 PASS · 14 methodology warnings · 0 hard failures**. Warnings are documented limitations, not proof of independently verified investment-grade accuracy. The project is publicly available on GitHub.
 
 ## At a Glance
 
@@ -214,8 +214,8 @@ FinSight-360/
 **Prerequisites:** Python 3.11-compatible environment, PostgreSQL, access to the required source data, and a local database configuration. Do not commit `.env` files, passwords, or private credentials.
 
 ```powershell
-# Clone after publication; replace YOUR_USERNAME with the actual GitHub handle
-# git clone https://github.com/YOUR_USERNAME/FinSight-360.git
+# Clone after publication; replace vivekpandey11 with the actual GitHub handle
+# git clone https://github.com/vivekpandey11/FinSight-360.git
 
 cd FinSight-360
 python -m venv .venv
