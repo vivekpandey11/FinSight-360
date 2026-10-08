@@ -2,6 +2,8 @@
 
 <h1>FinSight 360</h1>
 
+[**Live Interactive Dashboard**](https://vivekpandey11.github.io/FinSight-360/dashboard/FinSight_360_Interactive_Dashboard.html)
+
 ### Financial Intelligence · Equity Research · Valuation · Portfolio Risk
 
 **An end-to-end financial analytics and investment research portfolio project**
